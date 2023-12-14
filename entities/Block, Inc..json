@@ -1,7 +1,8 @@
 {
-    "name": "Square, Inc.",
-    "displayName": "Square",
+    "name": "Block, Inc.",
+    "displayName": "Block, Inc.",
     "properties": [
+        "block.xyz",
         "cash.app",
         "cash.me",
         "cashstaging.app",
@@ -50,10 +51,5 @@
         "squareup.co.jp",
         "squareup.com",
         "syncwithsquare.com"
-    ],
-    "prevalence": {
-        "tracking": 0.00122,
-        "nonTracking": 0.0000136,
-        "total": 0.00123
-    }
+    ]
 }

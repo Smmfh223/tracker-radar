@@ -3,7 +3,9 @@
     "displayName": "BNP PARIBAS",
     "properties": [
         "bnpparibas.fr",
+        "bnpparibasfortis.be",
         "consorsbank.de",
+        "group.bnpparibas",
         "mabanque.bnpparibas"
     ],
     "prevalence": {

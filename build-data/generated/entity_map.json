@@ -5355,7 +5355,8 @@
     },
     "Activision Publishing": {
         "aliases": [
-            "Activision Publishing"
+            "Activision Publishing",
+            "Activision Publishing, Inc."
         ],
         "properties": [
             "activision.com",
@@ -8863,6 +8864,7 @@
             "Youku Information Technology (Hangzhou) Co., Ltd.",
             "Youku.com Inc.",
             "Zhejiang Cainiao Supply Chain Management Co., Ltd.",
+            "Zhejiang Diantao HaoWu Network Co., Ltd.",
             "Zhejiang Taobao Mall Technology Co,Ltd.",
             "菜鸟网络科技有限公司"
         ],
@@ -9735,6 +9737,7 @@
     },
     "Amanotes Pte. Ltd.": {
         "aliases": [
+            "Amanotes Pte Ltd",
             "Amanotes Pte. Ltd."
         ],
         "properties": [
@@ -10573,7 +10576,8 @@
     },
     "American Multi-Cinema Inc.": {
         "aliases": [
-            "American Multi-Cinema Inc."
+            "American Multi-Cinema Inc.",
+            "American Multi-Cinema, Inc"
         ],
         "properties": [
             "amctheatres.com"
@@ -14986,7 +14990,10 @@
     },
     "Automattic, Inc.": {
         "aliases": [
-            "Automattic, Inc."
+            "Automattic, Inc.",
+            "Tumblr Inc",
+            "Tumblr Inc.",
+            "Tumblr, Inc."
         ],
         "properties": [
             "akismet.com",
@@ -16543,23 +16550,18 @@
     },
     "BNP PARIBAS SA": {
         "aliases": [
-            "BNP PARIBAS SA"
-        ],
-        "properties": [
-            "bnpparibas.fr",
-            "consorsbank.de",
-            "mabanque.bnpparibas"
-        ],
-        "displayName": "BNP PARIBAS"
-    },
-    "BNP Paribas Fortis SA": {
-        "aliases": [
+            "BNP PARIBAS SA",
+            "BNP Paribas",
             "BNP Paribas Fortis SA"
         ],
         "properties": [
-            "bnpparibasfortis.be"
+            "bnpparibas.fr",
+            "bnpparibasfortis.be",
+            "consorsbank.de",
+            "group.bnpparibas",
+            "mabanque.bnpparibas"
         ],
-        "displayName": "BNP Paribas Fortis"
+        "displayName": "BNP PARIBAS"
     },
     "BNSF Railway Company": {
         "aliases": [
@@ -17613,6 +17615,7 @@
     },
     "Banco do Brasil S.A.": {
         "aliases": [
+            "Banco do Brasil",
             "Banco do Brasil S.A."
         ],
         "properties": [
@@ -17622,6 +17625,7 @@
     },
     "Bandai Namco Holdings Inc.": {
         "aliases": [
+            "Bandai Namco Entertainment Inc.",
             "Bandai Namco Holdings Inc.",
             "株式会社バンダイナムコホールディングス"
         ],
@@ -21626,6 +21630,66 @@
         ],
         "displayName": "Blizzard Entertainment"
     },
+    "Block, Inc.": {
+        "aliases": [
+            "Block Inc.",
+            "Block, Inc.",
+            "Square Inc.",
+            "Square, Inc."
+        ],
+        "properties": [
+            "block.xyz",
+            "cash.app",
+            "cash.me",
+            "cashstaging.app",
+            "cashstaging.me",
+            "dreamswelcome.com",
+            "foreverydream.com",
+            "getsquare.com",
+            "giftofsquare.com",
+            "giftofsquare.net",
+            "giftofsquare.org",
+            "giftsofsquare.com",
+            "giftsofsquare.net",
+            "giftsofsquare.org",
+            "giveasquare.com",
+            "giveasquare.net",
+            "giveasquare.org",
+            "gosq.co",
+            "gosq.com",
+            "mkt.com",
+            "sellwithsquare.com",
+            "sqap.pt",
+            "sqclick.com",
+            "square.ca",
+            "square.co.jp",
+            "square.com.au",
+            "square.com.mx",
+            "square.engineering",
+            "square.jobs",
+            "square.ly",
+            "square.mx",
+            "square.site",
+            "squareappointments.com",
+            "squarecdn.com",
+            "squaregift.com",
+            "squaregift.net",
+            "squaregift.org",
+            "squareinstallments.com",
+            "squareinvite.com",
+            "squareinvoices.com",
+            "squareoffer.com",
+            "squarepayroll.com",
+            "squareregister.com",
+            "squareshowroom.com",
+            "squaresolutions.com",
+            "squareup.ca",
+            "squareup.co.jp",
+            "squareup.com",
+            "syncwithsquare.com"
+        ],
+        "displayName": "Block, Inc."
+    },
     "Blockchain Luxembourg S.A": {
         "aliases": [
             "Blockchain Luxembourg S.A"
@@ -23015,6 +23079,7 @@
     },
     "Boursorama SA": {
         "aliases": [
+            "Boursorama",
             "Boursorama SA"
         ],
         "properties": [
@@ -24084,6 +24149,7 @@
             "Avago Technologies",
             "Broadcom Inc.",
             "CA, Inc.",
+            "NortonLifeLock, Inc.",
             "Symantec Corporation"
         ],
         "properties": [
@@ -27480,6 +27546,17 @@
             "ctlottery.org"
         ],
         "displayName": "CT Lottery"
+    },
+    "CTBC Financial Holding": {
+        "aliases": [
+            "CTBC Bank Co., Ltd.",
+            "CTBC Financial Holding"
+        ],
+        "properties": [
+            "chinatrust.com.tw",
+            "ctbcbank.com"
+        ],
+        "displayName": "CTBC Financial"
     },
     "CTC Productions Pty Ltd": {
         "aliases": [
@@ -31386,11 +31463,23 @@
         ],
         "displayName": "Chilkat Software"
     },
-    "Chime Communications Limited": {
+    "Chime Capital, LLC": {
         "aliases": [
-            "Chime Communications Limited"
+            "Chime Capital, LLC",
+            "Chime Financial, Inc."
         ],
         "properties": [
+            "chime.com"
+        ],
+        "displayName": "Chime Financial"
+    },
+    "Chime Communications Limited": {
+        "aliases": [
+            "Chime Communications Limited",
+            "Watermelon Research Limited"
+        ],
+        "properties": [
+            "watermelonresearch.com",
             "watermelonsurveys.com"
         ],
         "displayName": "Chime Communications"
@@ -31630,6 +31719,7 @@
     },
     "Chipotle Mexican Grill, Inc.": {
         "aliases": [
+            "Chipotle Mexican Grill",
             "Chipotle Mexican Grill, Inc."
         ],
         "properties": [
@@ -34670,6 +34760,7 @@
     "Comcast Corporation": {
         "aliases": [
             "Comcast Corporation",
+            "Comcast Interactive Media",
             "Fandango Movies",
             "NBC Universal Media, LLC",
             "NBCUniversal Media, LLC",
@@ -38839,6 +38930,7 @@
             "CyberAgent Co., Ltd.",
             "CyberAgent, Inc.",
             "Cygames",
+            "Cygames, Inc.",
             "SIROK, Inc.",
             "株式会社シロク"
         ],
@@ -39450,8 +39542,9 @@
         ],
         "displayName": "DAZ 3D"
     },
-    "DAZN US LLC": {
+    "DAZN Limited": {
         "aliases": [
+            "DAZN Limited",
             "DAZN US LLC"
         ],
         "properties": [
@@ -39658,7 +39751,8 @@
     },
     "DEEZER": {
         "aliases": [
-            "DEEZER"
+            "DEEZER",
+            "DEEZER SA"
         ],
         "properties": [
             "deezer.com"
@@ -42634,7 +42728,8 @@
     },
     "Delta Air Lines Inc": {
         "aliases": [
-            "Delta Air Lines Inc"
+            "Delta Air Lines Inc",
+            "Delta Air Lines, Inc"
         ],
         "properties": [
             "delta.com"
@@ -53298,7 +53393,8 @@
     },
     "FA Premier League": {
         "aliases": [
-            "FA Premier League"
+            "FA Premier League",
+            "The Football Association Premier League Ltd"
         ],
         "properties": [
             "premierleague.com"
@@ -61158,6 +61254,15 @@
         ],
         "displayName": "GameWith"
     },
+    "Gameberry Labs Private Limited": {
+        "aliases": [
+            "Gameberry Labs Private Limited"
+        ],
+        "properties": [
+            "gameberrylabs.com"
+        ],
+        "displayName": "Gameberry Labs"
+    },
     "Gameforge Productions GmbH": {
         "aliases": [
             "Gameforge Productions GmbH"
@@ -68450,6 +68555,7 @@
     },
     "Hdfc Bank Limited.": {
         "aliases": [
+            "HDFC Bank Ltd",
             "Hdfc Bank Limited."
         ],
         "properties": [
@@ -74077,30 +74183,18 @@
         ],
         "displayName": "IdeaSolutions"
     },
-    "Idealista - Sociedade Unipessoal Lda.": {
-        "aliases": [
-            "Idealista - Sociedade Unipessoal Lda."
-        ],
-        "properties": [
-            "idealista.pt"
-        ],
-        "displayName": "Idealista - Sociedade Unipessoal"
-    },
     "Idealista S.A.": {
         "aliases": [
-            "Idealista S.A."
+            "Idealista - Sociedade Unipessoal",
+            "Idealista - Sociedade Unipessoal Lda.",
+            "Idealista S.A.",
+            "Idealista SRL.",
+            "Idealista, S.A."
         ],
         "properties": [
-            "idealista.com"
-        ],
-        "displayName": "Idealista"
-    },
-    "Idealista SRL.": {
-        "aliases": [
-            "Idealista SRL."
-        ],
-        "properties": [
-            "idealista.it"
+            "idealista.com",
+            "idealista.it",
+            "idealista.pt"
         ],
         "displayName": "Idealista"
     },
@@ -80975,6 +81069,7 @@
             "JORUDAN CO.,LTD.",
             "Jieyu (Shanghai) Information Technology Co.,Ltd.",
             "Jorudan Co., Ltd.",
+            "Jorudan Co.,Ltd.",
             "Jorudan Shanghai Co.,Ltd.",
             "Kabushiki Gaisha Gokushuppan",
             "Zest Pro Corp.",
@@ -85992,7 +86087,8 @@
     },
     "L Brands, Inc.": {
         "aliases": [
-            "L Brands, Inc."
+            "L Brands, Inc.",
+            "Victoria's Secret Stores Brand Management, Inc."
         ],
         "properties": [
             "bathandbodyworks.com",
@@ -91575,11 +91671,15 @@
     "LiveScore Limited": {
         "aliases": [
             "Hanist Limited",
-            "LiveScore Limited"
+            "LiveScore Limited",
+            "LiveScore Ltd."
         ],
         "properties": [
             "livescore.com",
-            "livescore.us"
+            "livescore.us",
+            "livescorebet.com",
+            "livescoregroup.com",
+            "virginbet.com"
         ],
         "displayName": "LiveScore"
     },
@@ -96878,6 +96978,7 @@
     },
     "Marriott International Inc.": {
         "aliases": [
+            "Marriott International",
             "Marriott International Inc",
             "Marriott International Inc."
         ],
@@ -97290,6 +97391,7 @@
             "Hinge, Inc.",
             "Humor Rainbow, Inc.",
             "Hyperconnect Inc.",
+            "Hyperconnect LLC",
             "MATCH GROUP, INC",
             "Match Group, Inc.",
             "Match Group, LLC"
@@ -97298,6 +97400,7 @@
             "azarlive.com",
             "gotinder.com",
             "hinge.co",
+            "hyperconnect.com",
             "match.com",
             "mtch.com",
             "okccdn.com",
@@ -101019,6 +101122,7 @@
     },
     "MindBody Inc": {
         "aliases": [
+            "MINDBODY Inc.",
             "MindBody Inc"
         ],
         "properties": [
@@ -104516,6 +104620,7 @@
     },
     "Myunidays Ltd": {
         "aliases": [
+            "MyUNiDAYS Ltd.",
             "Myunidays Ltd"
         ],
         "properties": [
@@ -105129,6 +105234,7 @@
     "NFL Enterprises LLC": {
         "aliases": [
             "NFL",
+            "NFL Enterprises  LLC",
             "NFL Enterprises LLC",
             "National Football League"
         ],
@@ -107065,8 +107171,10 @@
             "NAVER Corp.",
             "NAVER Corporation",
             "NAVER J.Hub Corporation",
+            "NAVER WEBTOON Ltd.",
             "Naver Corp.",
             "Naver Corporation",
+            "SNOW Corporation",
             "SNOW, Inc.",
             "WEBTOON ENTERTAINMENT",
             "Wattpad Corp.",
@@ -107489,6 +107597,7 @@
         "aliases": [
             "Guangzhou NetEase Computer System Co., Ltd",
             "Hangzhou Netease Cloud Music Technology Co., Ltd.",
+            "Hong Kong Netease Interactive Entertainment Limited",
             "NetEase (Hangzhou) Network Co., Ltd.",
             "NetEase (Hangzhou) Network Co.,Ltd",
             "NetEase Cloud Music",
@@ -107641,7 +107750,6 @@
             "Netgear, Inc"
         ],
         "properties": [
-            "arlo.com",
             "netgear.com"
         ],
         "displayName": "Netgear"
@@ -108944,7 +109052,8 @@
     },
     "Next PLC": {
         "aliases": [
-            "Next PLC"
+            "Next PLC",
+            "Next Retail Limited"
         ],
         "properties": [
             "next.co.uk"
@@ -109210,6 +109319,7 @@
     },
     "Nike, Inc.": {
         "aliases": [
+            "Nike, Inc",
             "Nike, Inc."
         ],
         "properties": [
@@ -112102,6 +112212,7 @@
     },
     "OfferUp, Inc.": {
         "aliases": [
+            "OfferUp Inc.",
             "OfferUp, Inc."
         ],
         "properties": [
@@ -115691,7 +115802,8 @@
     "PFIP, LLC": {
         "aliases": [
             "PFIP, LLC",
-            "Planet Fitness Franchising, LLC"
+            "Planet Fitness Franchising, LLC",
+            "Planet Fitness Holdings, LLC"
         ],
         "properties": [
             "pfhq.com",
@@ -116240,7 +116352,8 @@
     },
     "POSTE ITALIANE S.p.A.": {
         "aliases": [
-            "POSTE ITALIANE S.p.A."
+            "POSTE ITALIANE S.p.A.",
+            "Poste Italiane S.p.A"
         ],
         "properties": [
             "poste.it",
@@ -116679,6 +116792,19 @@
         ],
         "displayName": "PT Global Tiket Network"
     },
+    "PT GoTo Gojek Tokopedia Tbk": {
+        "aliases": [
+            "PT GoTo Gojek Tokopedia Tbk",
+            "PT. GOTO GOJEK TOKOPEDIA TBK",
+            "PT. Tokopedia"
+        ],
+        "properties": [
+            "gojek.com",
+            "gotocompany.com",
+            "tokopedia.com"
+        ],
+        "displayName": "GoTo"
+    },
     "PT KapanLagi Dot Com Network": {
         "aliases": [
             "PT KapanLagi Dot Com Network"
@@ -116802,15 +116928,6 @@
             "jne.co.id"
         ],
         "displayName": "PT. TIKI JNE"
-    },
-    "PT. Tokopedia": {
-        "aliases": [
-            "PT. Tokopedia"
-        ],
-        "properties": [
-            "tokopedia.com"
-        ],
-        "displayName": "PT. Tokopedia"
     },
     "PT. Trans Digital Media": {
         "aliases": [
@@ -117609,6 +117726,7 @@
             "Pluto Inc.",
             "Viacom Inc.",
             "Viacom International Inc.",
+            "ViacomCBS Digital DTC International LLC",
             "ViacomCBS Inc.",
             "Vidcon LLC"
         ],
@@ -118546,6 +118664,7 @@
     },
     "Paychex, Inc.": {
         "aliases": [
+            "Paychex Inc.",
             "Paychex, Inc."
         ],
         "properties": [
@@ -123825,12 +123944,13 @@
     },
     "Publix Asset Management Company": {
         "aliases": [
-            "Publix Asset Management Company"
+            "Publix Asset Management Company",
+            "Publix Super Markets Inc."
         ],
         "properties": [
             "publix.com"
         ],
-        "displayName": "Publix Asset Management Company"
+        "displayName": "Publix"
     },
     "Pubmark Inc": {
         "aliases": [
@@ -128047,7 +128167,8 @@
         "aliases": [
             "RECRUIT CO., LTD.",
             "RECRUIT Co.,Ltd.",
-            "Recruit Co., Ltd."
+            "Recruit Co., Ltd.",
+            "Recruit Co.,Ltd."
         ],
         "properties": [
             "carsensor.net",
@@ -140258,6 +140379,7 @@
             "AdsWizz Inc.",
             "Pandora Media, Inc.",
             "Pandora Media, LLC",
+            "SIRIUS XM Radio Inc",
             "Sirius XM Canada Inc.",
             "Sirius XM Holdings Inc.",
             "Sirius XM Radio Inc.",
@@ -140686,6 +140808,7 @@
     },
     "Skylark Co., LTD.": {
         "aliases": [
+            "SKYLARK CO.,LTD.",
             "Skylark Co., LTD.",
             "Skylark Group",
             "Skylark Restaurants Co., Ltd.",
@@ -140729,6 +140852,7 @@
     "Skyward, Inc.": {
         "aliases": [
             "School Administrative Software, Inc.",
+            "Skyward Inc",
             "Skyward, Inc."
         ],
         "properties": [
@@ -141455,6 +141579,7 @@
     },
     "Snap Inc.": {
         "aliases": [
+            "Bitstrips Inc.",
             "Snap Inc.",
             "Snapchat Inc.",
             "Snapchat, Inc.",
@@ -146115,62 +146240,6 @@
             "spyderco.com"
         ],
         "displayName": "Spyderco"
-    },
-    "Square, Inc.": {
-        "aliases": [
-            "Square, Inc."
-        ],
-        "properties": [
-            "cash.app",
-            "cash.me",
-            "cashstaging.app",
-            "cashstaging.me",
-            "dreamswelcome.com",
-            "foreverydream.com",
-            "getsquare.com",
-            "giftofsquare.com",
-            "giftofsquare.net",
-            "giftofsquare.org",
-            "giftsofsquare.com",
-            "giftsofsquare.net",
-            "giftsofsquare.org",
-            "giveasquare.com",
-            "giveasquare.net",
-            "giveasquare.org",
-            "gosq.co",
-            "gosq.com",
-            "mkt.com",
-            "sellwithsquare.com",
-            "sqap.pt",
-            "sqclick.com",
-            "square.ca",
-            "square.co.jp",
-            "square.com.au",
-            "square.com.mx",
-            "square.engineering",
-            "square.jobs",
-            "square.ly",
-            "square.mx",
-            "square.site",
-            "squareappointments.com",
-            "squarecdn.com",
-            "squaregift.com",
-            "squaregift.net",
-            "squaregift.org",
-            "squareinstallments.com",
-            "squareinvite.com",
-            "squareinvoices.com",
-            "squareoffer.com",
-            "squarepayroll.com",
-            "squareregister.com",
-            "squareshowroom.com",
-            "squaresolutions.com",
-            "squareup.ca",
-            "squareup.co.jp",
-            "squareup.com",
-            "syncwithsquare.com"
-        ],
-        "displayName": "Square"
     },
     "SquareOffs LLC": {
         "aliases": [
@@ -151134,10 +151203,15 @@
     },
     "TD Bank Financial Group": {
         "aliases": [
-            "TD Bank Financial Group"
+            "TD Bank Financial Group",
+            "The Toronto-Dominion Bank",
+            "Toronto Dominion Bank Financial Group"
         ],
         "properties": [
-            "td.ca"
+            "td.ca",
+            "td.com",
+            "tdbank.com",
+            "tdcanadatrust.com"
         ],
         "displayName": "TD Bank Financial Group"
     },
@@ -154872,12 +154946,14 @@
             "Oriental Power Holdings Limited",
             "Shenzhen Tencent Computer Systems CO.,Ltd",
             "Shenzhen Tencent Computer Systems Company Limited",
+            "Tencent Digital (Tianjin) Co., Ltd .",
             "Tencent Games",
             "Tencent Holdings Ltd.",
             "Tencent Interactive Entertainment",
             "Tencent International Service Europe BV",
             "Tencent International Service Pte. Ltd",
             "Tencent Mobile International Limited",
+            "Tencent Mobility Limited",
             "Tencent Music",
             "Tencent Music Entertainment Group",
             "Tencent Technology (Beijing) Company Limited",
@@ -155153,7 +155229,8 @@
     "Tesla Motors": {
         "aliases": [
             "Tesla Motors",
-            "Tesla Motors Inc"
+            "Tesla Motors Inc",
+            "Tesla, Inc."
         ],
         "properties": [
             "tesla.com",
@@ -158562,6 +158639,7 @@
     },
     "The Score Inc": {
         "aliases": [
+            "Score Media and Gaming Inc.",
             "The Score Inc"
         ],
         "properties": [
@@ -158834,17 +158912,6 @@
             "toro.com"
         ],
         "displayName": "The Toro Company"
-    },
-    "The Toronto-Dominion Bank": {
-        "aliases": [
-            "The Toronto-Dominion Bank"
-        ],
-        "properties": [
-            "td.com",
-            "tdbank.com",
-            "tdcanadatrust.com"
-        ],
-        "displayName": "The Toronto-Dominion Bank"
     },
     "The Trade Desk Inc": {
         "aliases": [
@@ -166422,6 +166489,7 @@
     },
     "United Airlines Inc": {
         "aliases": [
+            "United Air Lines",
             "United Airlines",
             "United Airlines Inc"
         ],
@@ -169997,6 +170065,15 @@
         ],
         "displayName": "VNG"
     },
+    "VNPAY JSC": {
+        "aliases": [
+            "VNPAY JSC"
+        ],
+        "properties": [
+            "vnpay.vn"
+        ],
+        "displayName": "VNPAY"
+    },
     "VNR Verlag fuer die Deutsche Wirtschaft AG": {
         "aliases": [
             "VNR Verlag fuer die Deutsche Wirtschaft AG"
@@ -170037,7 +170114,10 @@
     },
     "VOODOO": {
         "aliases": [
-            "VOODOO"
+            "VOODOO",
+            "VOODOO SAS",
+            "Voodoo",
+            "Voodoo SAS"
         ],
         "properties": [
             "voodoo.io"
@@ -171171,6 +171251,18 @@
         ],
         "displayName": "Verified Voting Foundation"
     },
+    "Verisure Arlo Europe DAC": {
+        "aliases": [
+            "Arlo Technologies, Inc.",
+            "Verisure Arlo Europe DAC"
+        ],
+        "properties": [
+            "arlo.com",
+            "verisure.co.uk",
+            "verisure.com"
+        ],
+        "displayName": "Verisure Arlo"
+    },
     "Veritas Health LLC": {
         "aliases": [
             "Veritas Health LLC"
@@ -171234,8 +171326,6 @@
             "Oath inc",
             "TechCrunch, Inc.",
             "TheHuffingtonPost.com, Inc.",
-            "Tumblr Inc",
-            "Tumblr Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -172555,6 +172645,7 @@
         "aliases": [
             "VINTED LIMITED",
             "Vinted Inc.",
+            "Vinted Limited",
             "Vinted UAB",
             "Vinted, UAB"
         ],
@@ -175018,12 +175109,14 @@
             "Massmart Holdings Limited",
             "Moosejaw",
             "Myntra",
+            "Myntra Designs Private Limited",
             "Myntra Designs Pvt Ltd",
             "New Moosejaw LLC",
             "PhonePe Private Limited",
             "Seiyu GK",
             "Seiyu Group",
             "Wal-Mart Stores, Inc.",
+            "Walmart",
             "Walmart Inc.",
             "Walmart India Pvt. Ltd.",
             "Walmart Japan Holdings KK",
@@ -178054,6 +178147,16 @@
             "wingstop.com"
         ],
         "displayName": "Wingstop Restaurants"
+    },
+    "Wink Tech": {
+        "aliases": [
+            "MatchUp UK Limited",
+            "Wink Tech"
+        ],
+        "properties": [
+            "omi.sg"
+        ],
+        "displayName": "Wink Tech"
     },
     "Winmark Corporation": {
         "aliases": [
@@ -181215,6 +181318,7 @@
     "Yum Brands, Inc.": {
         "aliases": [
             "Huansheng E-commerce (Shanghai) Co., Ltd",
+            "Taco Bell",
             "Yum Brands, Inc.",
             "Yum Consulting (Shanghai) Co., Ltd.",
             "Yum! III (UK) Ltd.",
@@ -187759,6 +187863,7 @@
         "aliases": [
             "MIXI, Inc.",
             "XFLAG",
+            "XFLAG, Inc.",
             "mixi Co., Ltd.",
             "mixi, Inc."
         ],

@@ -3,7 +3,10 @@
     "displayName": "LiveScore",
     "properties": [
         "livescore.com",
-        "livescore.us"
+        "livescore.us",
+        "livescorebet.com",
+        "livescoregroup.com",
+        "virginbet.com"
     ],
     "prevalence": {
         "tracking": 0,
