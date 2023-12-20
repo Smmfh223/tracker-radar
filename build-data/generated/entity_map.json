@@ -1303,15 +1303,6 @@
         ],
         "displayName": "7 Cups of Tea"
     },
-    "7-Eleven, Inc.": {
-        "aliases": [
-            "7-Eleven, Inc."
-        ],
-        "properties": [
-            "7-eleven.com"
-        ],
-        "displayName": "7-Eleven"
-    },
     "70 Faces Media": {
         "aliases": [
             "70 Faces Media"
@@ -1989,6 +1980,22 @@
         ],
         "displayName": "ABLOGTOWATCH"
     },
+    "ABLY Corp., Inc.": {
+        "aliases": [
+            "ABLY Corp., Inc.",
+            "Able Corporation",
+            "Avely",
+            "Bellatoo",
+            "Sagu Ilgong"
+        ],
+        "properties": [
+            "4910.kr",
+            "a-bly.com",
+            "ablycorp.com",
+            "bellatu.kr"
+        ],
+        "displayName": "ABLY Corp"
+    },
     "ABN AMRO Bank N.V.": {
         "aliases": [
             "ABN AMRO Bank N.V."
@@ -2167,11 +2174,16 @@
     },
     "ACME AtronOmatic": {
         "aliases": [
-            "ACME AtronOmatic"
+            "ACME AtronOmatic",
+            "Acme AtronOMatic, LLC",
+            "Aviation Data Systems, Inc",
+            "EndpointAI Inc."
         ],
         "properties": [
             "acmeaom.com",
-            "myradar.com"
+            "myradar.com",
+            "myradar.dev",
+            "myradar.space"
         ],
         "displayName": "ACME AtronOmatic"
     },
@@ -6213,22 +6225,6 @@
         ],
         "displayName": "Adjective Media & Marketing"
     },
-    "Adjust GmbH": {
-        "aliases": [
-            "Adjust GmbH"
-        ],
-        "properties": [
-            "adj.st",
-            "adjust.cn",
-            "adjust.com",
-            "adjust.io",
-            "adjust.net.in",
-            "adjust.world",
-            "apptrace.com",
-            "go.link"
-        ],
-        "displayName": "Adjust"
-    },
     "Adkernel, LLC": {
         "aliases": [
             "Adkernel, LLC"
@@ -9772,6 +9768,18 @@
         ],
         "displayName": "Amaya Innovation"
     },
+    "Amazia, Inc.": {
+        "aliases": [
+            "Amazia Co., Ltd",
+            "Amazia, Inc.",
+            "Amazia,Inc"
+        ],
+        "properties": [
+            "amazia.co.jp",
+            "manga-bang.com"
+        ],
+        "displayName": "Amazia"
+    },
     "Amazine GmbH": {
         "aliases": [
             "Amazine GmbH"
@@ -12230,15 +12238,39 @@
         ],
         "displayName": "AppBank"
     },
+    "AppFolio, Inc.": {
+        "aliases": [
+            "AppFolio",
+            "AppFolio, Inc."
+        ],
+        "properties": [
+            "appf.io",
+            "appfolio.com",
+            "appfolioinc.com"
+        ],
+        "displayName": "AppFolio"
+    },
     "AppLovin Corporation": {
         "aliases": [
+            "Adjust GmbH",
             "AppLovin Corporation",
+            "Lion Studios",
+            "Magic Tavern, Inc.",
             "MoPub Inc.",
             "SafeDK"
         ],
         "properties": [
+            "adj.st",
+            "adjust.cn",
+            "adjust.com",
+            "adjust.io",
+            "adjust.net.in",
+            "adjust.world",
             "applovin.com",
             "applvn.com",
+            "apptrace.com",
+            "go.link",
+            "magictavern.com",
             "mopub.com",
             "safedk.com"
         ],
@@ -15704,6 +15736,21 @@
         ],
         "displayName": "B-Analytics"
     },
+    "B-R 31 ICE CREAM CO., LTD.": {
+        "aliases": [
+            "31 Aikalima LLC",
+            "B-R 31 ICE CREAM CO., LTD.",
+            "BR Japan Co., Ltd.",
+            "Baskin-Robbins",
+            "Fujiya Co. Ltd."
+        ],
+        "properties": [
+            "31club.jp",
+            "31ice.co.jp",
+            "baskinrobbins.com"
+        ],
+        "displayName": "B-R 31 ICE CREAM CO., LTD."
+    },
     "B.A.I. (U.K.), Limited": {
         "aliases": [
             "B.A.I. (U.K.), Limited"
@@ -15959,7 +16006,8 @@
     },
     "BCA (PT Bank Central Asia Tbk)": {
         "aliases": [
-            "BCA (PT Bank Central Asia Tbk)"
+            "BCA (PT Bank Central Asia Tbk)",
+            "PT Bank Central Asia Tbk."
         ],
         "properties": [
             "bca.co.id",
@@ -16296,6 +16344,19 @@
             "e-yearbook.com"
         ],
         "displayName": "BINGZAP2 ENTERPRISES"
+    },
+    "BIPROGY Inc.": {
+        "aliases": [
+            "BIPROGY Group",
+            "BIPROGY Inc.",
+            "UEL Corporation"
+        ],
+        "properties": [
+            "afon.com.sg",
+            "axxis-consulting.com",
+            "biprogy.com"
+        ],
+        "displayName": "BIPROGY"
     },
     "BISNIS": {
         "aliases": [
@@ -19362,6 +19423,7 @@
             "Beijing Jingdong Century Trading Co., Ltd.",
             "Beijing Jingdong Financial Technology Holdings Co., Ltd",
             "JD.com, Inc.",
+            "Jiangsu Jingdong Information Technology Co., Ltd.",
             "京东JD.com 版权所有"
         ],
         "properties": [
@@ -19395,6 +19457,19 @@
             "yizhitou.com"
         ],
         "displayName": "Beijing Jingdong Century Trading"
+    },
+    "Beijing KangZhiLeSi Network Technology Co., Ltd": {
+        "aliases": [
+            "Beijing Kang Zhi Le Si Network Technology Co., Ltd.",
+            "Beijing KangZhiLeSi Network Technology Co., Ltd",
+            "Beijing KangZhiLeSi Network Technology Co.,Ltd",
+            "北京康智乐思网络科技有限公司"
+        ],
+        "properties": [
+            "dayima.com",
+            "yoloho.com"
+        ],
+        "displayName": "Beijing KangZhiLeSi Network Technology"
     },
     "Beijing Kuaishou Technology Ltd.": {
         "aliases": [
@@ -19501,31 +19576,6 @@
             "ptengine.cn"
         ],
         "displayName": "Beijing Ptmind Network Technology"
-    },
-    "Beijing Qunar Information Technology Company Limited": {
-        "aliases": [
-            "Beijing Funa Information Technology Co., Ltd.",
-            "Beijing Qunar Information Technology Company Limit",
-            "Beijing Qunar Information Technology Company Limited",
-            "北京趣拿信息技术有限公司"
-        ],
-        "properties": [
-            "qua.com",
-            "qunar.com",
-            "qunarcdn.com",
-            "qunarzz.com",
-            "qunr.com"
-        ],
-        "displayName": "Beijing Qunar Information Technology"
-    },
-    "Beijing Reyun Technology Co. Ltd.": {
-        "aliases": [
-            "Beijing Reyun Technology Co. Ltd."
-        ],
-        "properties": [
-            "trackingio.com"
-        ],
-        "displayName": "Beijing Reyun Technology"
     },
     "Beijing Sogou Technology Development Co., Ltd.": {
         "aliases": [
@@ -21164,6 +21214,15 @@
             "netlify.com"
         ],
         "displayName": "BitBalloon"
+    },
+    "BitMango, Inc.": {
+        "aliases": [
+            "BitMango, Inc."
+        ],
+        "properties": [
+            "bitmango.com"
+        ],
+        "displayName": "BitMango"
     },
     "BitPay, Inc.": {
         "aliases": [
@@ -23364,15 +23423,6 @@
             "brainscape.com"
         ],
         "displayName": "Brainscape"
-    },
-    "Branch Banking and Trust Company": {
-        "aliases": [
-            "Branch Banking and Trust Company"
-        ],
-        "properties": [
-            "bbt.com"
-        ],
-        "displayName": "Branch Banking and Trust Company"
     },
     "Branch Metrics, Inc.": {
         "aliases": [
@@ -31648,6 +31698,26 @@
         ],
         "displayName": "China Telecom"
     },
+    "China Travelsky Technology Limited": {
+        "aliases": [
+            "China Civil Aviation Information Network Co., Ltd.",
+            "China Travelsky Technology Limited",
+            "Hanglv Zongheng",
+            "TravelSky Technology Co.,LTD",
+            "中航信移动科技有限公司"
+        ],
+        "properties": [
+            "airpointshop.com",
+            "travelsky.com",
+            "travelsky.com.cn",
+            "travelskymobile.cn",
+            "ume-trip.cn",
+            "umetrip.com",
+            "umetrip.com.cn",
+            "umetrip.net.cn"
+        ],
+        "displayName": "TravelSky"
+    },
     "China Unionpay Co.,Ltd.": {
         "aliases": [
             "China Unionpay Co.,Ltd.",
@@ -37394,6 +37464,29 @@
         ],
         "displayName": "County of Wayne"
     },
+    "Coupang Corp.": {
+        "aliases": [
+            "Coupang Co., Ltd.",
+            "Coupang Corp.",
+            "Coupang, Inc."
+        ],
+        "properties": [
+            "coupang.com",
+            "coupang.jobs",
+            "coupang.net",
+            "coupang.tw",
+            "coupang.zone",
+            "coupangaux.com",
+            "coupangcdn.com",
+            "coupangcorp.com",
+            "coupangdev.com",
+            "coupangforce.com",
+            "coupangmen.com",
+            "coupangservice.com",
+            "coupangservices.com"
+        ],
+        "displayName": "Coupang"
+    },
     "CouponChief.com, Inc.": {
         "aliases": [
             "CouponChief.com, Inc."
@@ -40808,9 +40901,11 @@
     },
     "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş.": {
         "aliases": [
+            "DSM Grup Danismanlik Iletisim ve Satis Tic. A.S.",
             "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş."
         ],
         "properties": [
+            "dolap.com",
             "trendyol.com"
         ],
         "displayName": "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş"
@@ -42618,7 +42713,8 @@
             "Delivery Hero Holding GmbH",
             "Delivery Hero SE",
             "Foodfly",
-            "Foodpanda"
+            "Foodpanda",
+            "Internet Services Polen Sp. z o.o."
         ],
         "properties": [
             "deliveryhero.com",
@@ -42644,6 +42740,7 @@
             "foodpanda.ro",
             "foodpanda.sg",
             "foody.com.cy",
+            "glovoapp.com",
             "hungerstation.com",
             "instashop.com",
             "instashop.ee",
@@ -42651,6 +42748,7 @@
             "instashop.lv",
             "netpincer.hu",
             "pauza.hr",
+            "pizzaportal.pl",
             "trycarriage.com"
         ],
         "displayName": "Delivery Hero"
@@ -44943,6 +45041,16 @@
             "simpleinnovation.us"
         ],
         "displayName": "SimpleInnovation"
+    },
+    "Digitaliseringsstyrelsen": {
+        "aliases": [
+            "Digitaliseringsstyrelsen",
+            "The Danish Agency for Digitalisation"
+        ],
+        "properties": [
+            "digst.dk"
+        ],
+        "displayName": "Digitaliseringsstyrelsen"
     },
     "Digitally Imported, Inc.": {
         "aliases": [
@@ -48290,6 +48398,20 @@
         ],
         "displayName": "ENEDIS"
     },
+    "ENEOS Corporation": {
+        "aliases": [
+            "ENEOS Corporation",
+            "ENEOS Holdings, Inc."
+        ],
+        "properties": [
+            "eneos-ss.app",
+            "eneos.co.jp",
+            "eneos.us",
+            "eneoseurope.com",
+            "nctius.com"
+        ],
+        "displayName": "ENEOS Corporation"
+    },
     "ENGAGIO INC.": {
         "aliases": [
             "ENGAGIO INC."
@@ -49677,6 +49799,16 @@
             "mathworksheets4kids.com"
         ],
         "displayName": "Educurve e-learning solutions"
+    },
+    "Edupoint Educational Systems LLC": {
+        "aliases": [
+            "Edupoint",
+            "Edupoint Educational Systems LLC"
+        ],
+        "properties": [
+            "edupoint.com"
+        ],
+        "displayName": "Edupoint"
     },
     "Edutec Limited": {
         "aliases": [
@@ -53955,7 +54087,9 @@
     },
     "FKU Nalog-Servis FNS Rossii": {
         "aliases": [
-            "FKU Nalog-Servis FNS Rossii"
+            "FKU Nalog-Servis FNS Rossii",
+            "ГНИВЦ, АО",
+            "ФНС России"
         ],
         "properties": [
             "nalog.ru"
@@ -54504,6 +54638,16 @@
             "openclipart.org"
         ],
         "displayName": "Fabricatorz"
+    },
+    "FaceApp Technology Limited": {
+        "aliases": [
+            "FaceApp Technology Limited"
+        ],
+        "properties": [
+            "faceapp.com",
+            "faceapp.io"
+        ],
+        "displayName": "FaceApp Technology Limited"
     },
     "Facebook, Inc.": {
         "aliases": [
@@ -61168,16 +61312,6 @@
         ],
         "displayName": "Game8"
     },
-    "GameAnalytics ApS": {
-        "aliases": [
-            "Game Analytics ApS",
-            "GameAnalytics ApS"
-        ],
-        "properties": [
-            "gameanalytics.com"
-        ],
-        "displayName": "GameAnalytics"
-    },
     "GameDev.net": {
         "aliases": [
             "GameDev.net"
@@ -62175,6 +62309,23 @@
         ],
         "displayName": "GeoComply Global"
     },
+    "GeoTechnologies, Inc.": {
+        "aliases": [
+            "Geo Technologies Co., Ltd.",
+            "GeoTechnologies North America, Inc.",
+            "GeoTechnologies Shanghai, Inc.",
+            "GeoTechnologies, Inc.",
+            "INCREMENT P NORTH AMERICA, INC.",
+            "INCREMENT P SHANGHAI COMPANY LIMITED"
+        ],
+        "properties": [
+            "geot-na.com",
+            "geot.jp",
+            "mapfan.com",
+            "trip-mile.com"
+        ],
+        "displayName": "GeoTechnologies, Inc."
+    },
     "Geocities Corporation": {
         "aliases": [
             "Geocities Corporation"
@@ -63119,6 +63270,30 @@
             "blinds.com"
         ],
         "displayName": "Global Custom Commerce"
+    },
+    "Global Fashion Group S.A.": {
+        "aliases": [
+            "GFG COMÉRCIO DIGITAL LTDA",
+            "Global Fashion Group S.A.",
+            "Internet Services Australia 1 Pty Limited",
+            "Zalora South East Asia Pte Ltd"
+        ],
+        "properties": [
+            "dafiti.com.br",
+            "dafitigroup.com",
+            "global-fashion-group.com",
+            "theiconic.com.au",
+            "zacdn.com",
+            "zalora.co.id",
+            "zalora.com",
+            "zalora.com.hk",
+            "zalora.com.my",
+            "zalora.com.ph",
+            "zalora.com.tw",
+            "zalora.io",
+            "zalora.sg"
+        ],
+        "displayName": "Global Fashion Group"
     },
     "Global Healing Center, LP": {
         "aliases": [
@@ -66004,6 +66179,22 @@
         ],
         "displayName": "Guangzhou Nemo Fish Technology"
     },
+    "Guangzhou Shirui Electronics Co., Ltd.": {
+        "aliases": [
+            "Guangzhou Shirui Electronics Co., Ltd.",
+            "Guangzhou Shiyuan Electronic Technology Co., Ltd.",
+            "Shirui Electronics",
+            "Shiyuan Co., Ltd.",
+            "号|广州视源电子科技股份有限公司"
+        ],
+        "properties": [
+            "cvtapi.com",
+            "cvte.com",
+            "maxhub.com",
+            "seewo.com"
+        ],
+        "displayName": "Guangzhou Shirui Electronics"
+    },
     "Guangzhou Taku Information Technology Co., Ltd.": {
         "aliases": [
             "Guangzhou Taku Information Technology Co., Ltd."
@@ -66070,6 +66261,17 @@
             "ypcvip.com"
         ],
         "displayName": "Guangzhou Vipshop E-Commerce"
+    },
+    "Guangzhou ZHIFENG Information Technology Co.,Ltd.": {
+        "aliases": [
+            "Guangzhou ZHIFENG Information Technology Co.,Ltd.",
+            "Guangzhou Zhifeng Information Technology Co., Ltd.",
+            "广州至锋信息技术有限公司"
+        ],
+        "properties": [
+            "sharpmobi.com"
+        ],
+        "displayName": "Guangzhou ZHIFENG Information Technology"
     },
     "Guardian Analytics, Inc.": {
         "aliases": [
@@ -66561,6 +66763,18 @@
             "handymanwire.com"
         ],
         "displayName": "HANDYMAN USA"
+    },
+    "HANGZHOU JFTECH CO., LTD.": {
+        "aliases": [
+            "HANGZHOU JFTECH CO., LTD."
+        ],
+        "properties": [
+            "bcloud365.net",
+            "jftech.com",
+            "xm030.cn",
+            "xmcsrv.net"
+        ],
+        "displayName": "HANGZHOU JFTECH"
     },
     "HANNA PUKHOUSKAYA": {
         "aliases": [
@@ -73208,6 +73422,16 @@
         ],
         "displayName": "INST NAT SANTE ET LA RECHERCHE MEDICALE"
     },
+    "INSTAMART, OOO": {
+        "aliases": [
+            "INSTAMART, OOO"
+        ],
+        "properties": [
+            "sbermarket.ru",
+            "sbermarket.tech"
+        ],
+        "displayName": "INSTAMART, OOO"
+    },
     "INSTAR INFORMATIKA d.o.o. za trgovinu i usluge": {
         "aliases": [
             "INSTAR INFORMATIKA d.o.o. za trgovinu i usluge"
@@ -77536,15 +77760,6 @@
         ],
         "displayName": "Internet Security Research Group"
     },
-    "Internet Services Australia 1 Pty Limited": {
-        "aliases": [
-            "Internet Services Australia 1 Pty Limited"
-        ],
-        "properties": [
-            "theiconic.com.au"
-        ],
-        "displayName": "Internet Services Australia 1"
-    },
     "Internet Solutions LLC": {
         "aliases": [
             "Internet Solutions LLC"
@@ -80911,6 +81126,15 @@
             "jointcommission.org"
         ],
         "displayName": "Joint Commission on Accreditation of Healthcare Organizations"
+    },
+    "Joint Stock Commercial Bank for Foreign Trade of Vietnam": {
+        "aliases": [
+            "Joint Stock Commercial Bank for Foreign Trade of Vietnam"
+        ],
+        "properties": [
+            "vietcombank.com.vn"
+        ],
+        "displayName": "Vietcombank"
     },
     "Joint Stock Company Russian Railways": {
         "aliases": [
@@ -84469,7 +84693,8 @@
             "BillPay GmbH",
             "Klarna Bank AB",
             "SOFORT AG",
-            "Sofort GmbH"
+            "Sofort GmbH",
+            "Stocard GmbH"
         ],
         "properties": [
             "billpay.at",
@@ -84491,7 +84716,8 @@
             "klarnaevt.com",
             "klarnapayments.com",
             "klarnaservices.com",
-            "sofort.com"
+            "sofort.com",
+            "stocardapp.com"
         ],
         "displayName": "Klarna Bank"
     },
@@ -85105,6 +85331,26 @@
             "coov.io"
         ],
         "displayName": "KDCA"
+    },
+    "Korea Railroad Corporation": {
+        "aliases": [
+            "KORAIL Distribution Co., Ltd.",
+            "KORAIL NETWORKS CO., LTD.",
+            "KORAIL Tourism Development Co., Ltd.",
+            "Korail Logis Co., Ltd.",
+            "Korail Tech Co., Ltd.",
+            "Korea Railroad Corporation"
+        ],
+        "properties": [
+            "korail.com",
+            "koraillogis.com",
+            "korailnetworks.com",
+            "korailretail.com",
+            "korailtech.com",
+            "korailtravel.com",
+            "letskorail.com"
+        ],
+        "displayName": "Korea Railroad Corporation"
     },
     "Korea Tourism Organization": {
         "aliases": [
@@ -94996,12 +95242,34 @@
     },
     "MUFG Bank, Ltd.": {
         "aliases": [
-            "MUFG Bank, Ltd."
+            "Ayudhya Capital Services Company Limited",
+            "Bank of Ayudhya Public Company Limited",
+            "MUFG",
+            "MUFG Bank, Ltd.",
+            "SB Finance, Inc.",
+            "State Bank of Vietnam",
+            "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+            "Vietnam Joint Stock Commercial Bank for Industry and Trade"
         ],
         "properties": [
-            "mufg.jp"
+            "acom.co.jp",
+            "danamon.co.id",
+            "firstchoice.co.th",
+            "hrgl.jp",
+            "jss-ltd.jp",
+            "krungsri.com",
+            "mastertrust.co.jp",
+            "mucap.co.jp",
+            "mufg-investorservices.com",
+            "mufg.jp",
+            "mufgamericas.com",
+            "mufgsecurities.com",
+            "murc.jp",
+            "sbv.gov.vn",
+            "securitybank.com",
+            "vietinbank.vn"
         ],
-        "displayName": "MUFG Bank"
+        "displayName": "MUFG"
     },
     "MUFG Union Bank, N.A.": {
         "aliases": [
@@ -96181,6 +96449,17 @@
         ],
         "displayName": "Manhattan Institute for Policy Research"
     },
+    "Manhole, Inc.": {
+        "aliases": [
+            "Manhole Co., Ltd.",
+            "Manhole, Inc."
+        ],
+        "properties": [
+            "hujicam.com",
+            "manhole.co.kr"
+        ],
+        "displayName": "Manhole, Inc."
+    },
     "Mannengeheim B.V": {
         "aliases": [
             "Mannengeheim B.V"
@@ -96886,6 +97165,19 @@
             "omniconvert.com"
         ],
         "displayName": "Marketizator Friends"
+    },
+    "Marketplace LLC": {
+        "aliases": [
+            "MARKETPLEIS,OOO",
+            "Marketplace LLC",
+            "ООО «Маркетплейс»"
+        ],
+        "properties": [
+            "megamarket.ru",
+            "megamarket.tech",
+            "sbermegamarket.ru"
+        ],
+        "displayName": "Marketplace LLC"
     },
     "Marketshot": {
         "aliases": [
@@ -97676,6 +97968,19 @@
         ],
         "displayName": "Maverick"
     },
+    "Maviay Software Hardware Consultancy Services Electronic Private Education Industry and Trade. Ltd.": {
+        "aliases": [
+            "MAVIAY YAZILIM DONANIM DANISMANLIK HIZMETLERI ELEKTRONIK OZEL EGITIM SANAYI VE TIC LTD STI",
+            "Maviay Software Hardware Consultancy Services Electronic Private Education Industry and Trade. Ltd.",
+            "Maviay Yazılım Donanım Danışmanlık Hizmetleri Elektronik Özel Eğitim Sanayi ve ."
+        ],
+        "properties": [
+            "azantimepro.com",
+            "ezanvaktipro.com",
+            "maviay.co"
+        ],
+        "displayName": "Maviay Software Hardware Consultancy Services Electronic Private Education Industry and Trade"
+    },
     "Mawdoo3 Limited": {
         "aliases": [
             "Mawdoo3 Limited"
@@ -97751,6 +98056,119 @@
             "tube17.com"
         ],
         "displayName": "Maxi Investment"
+    },
+    "Maxi Mobility, Inc.": {
+        "aliases": [
+            "Maxi Mobility S.L.",
+            "Maxi Mobility, Inc."
+        ],
+        "properties": [
+            "cabifai.com",
+            "cabifay.com",
+            "cabified.com",
+            "cabifil.es",
+            "cabify-sandbox.com",
+            "cabify.autos",
+            "cabify.barcelona",
+            "cabify.be",
+            "cabify.beauty",
+            "cabify.bike",
+            "cabify.biz",
+            "cabify.boats",
+            "cabify.cab",
+            "cabify.click",
+            "cabify.cloud",
+            "cabify.cn.com",
+            "cabify.co",
+            "cabify.com",
+            "cabify.com.br",
+            "cabify.com.co",
+            "cabify.com.pe",
+            "cabify.com.uy",
+            "cabify.cr",
+            "cabify.cyou",
+            "cabify.day",
+            "cabify.de",
+            "cabify.design",
+            "cabify.dev",
+            "cabify.digital",
+            "cabify.do",
+            "cabify.domains",
+            "cabify.ec",
+            "cabify.es",
+            "cabify.eu",
+            "cabify.fr",
+            "cabify.fun",
+            "cabify.gay",
+            "cabify.guru",
+            "cabify.help",
+            "cabify.homes",
+            "cabify.info",
+            "cabify.ink",
+            "cabify.international",
+            "cabify.lgbt",
+            "cabify.life",
+            "cabify.lol",
+            "cabify.mobi",
+            "cabify.mom",
+            "cabify.monster",
+            "cabify.mx",
+            "cabify.nl",
+            "cabify.one",
+            "cabify.pe",
+            "cabify.pics",
+            "cabify.pro",
+            "cabify.pt",
+            "cabify.rent",
+            "cabify.ru",
+            "cabify.services",
+            "cabify.solutions",
+            "cabify.store",
+            "cabify.support",
+            "cabify.to",
+            "cabify.uy",
+            "cabify.vip",
+            "cabify.wiki",
+            "cabify.world",
+            "cabify.yachts",
+            "cabifyempresas.com.br",
+            "cabifyevents.com",
+            "cavify.com",
+            "easy-taxi.app",
+            "easytaxi.bo",
+            "easytaxi.co",
+            "easytaxi.co.cr",
+            "easytaxi.com",
+            "easytaxi.com.bo",
+            "easytaxi.com.br",
+            "easytaxi.com.co",
+            "easytaxi.com.ec",
+            "easytaxi.com.mx",
+            "easytaxi.com.pa",
+            "easytaxi.com.pe",
+            "easytaxi.com.uy",
+            "easytaxi.ec",
+            "easytaxi.mx",
+            "easytaxi.net.br",
+            "easytaxi.pe",
+            "easytaxi.uy",
+            "et-env.net",
+            "fundacioncabify.com",
+            "fundacioncabify.org",
+            "manejandoporuncero.com",
+            "maxi-mobility.com",
+            "maxi-mobility.es",
+            "maximobility.com",
+            "maximobility.es",
+            "movo.me",
+            "prestigeandlimousines.com",
+            "prestigelimo.es",
+            "tappsi.co",
+            "tappxi.co",
+            "tapsi.co",
+            "tapxi.co"
+        ],
+        "displayName": "Maxi Mobility"
     },
     "Maxicoffee.com": {
         "aliases": [
@@ -101280,18 +101698,6 @@
         ],
         "displayName": "Mindvalley LC"
     },
-    "Mindworks Global Media Services": {
-        "aliases": [
-            "Mindworks Global Media Services",
-            "Mintegral"
-        ],
-        "properties": [
-            "cartoq.com",
-            "mindworks-creative.com",
-            "mintegral.com"
-        ],
-        "displayName": "Mindworks Global Media Services"
-    },
     "Mineconomrazvitiya Rossii": {
         "aliases": [
             "Mineconomrazvitiya Rossii"
@@ -101350,13 +101756,22 @@
     },
     "Miniclip SA": {
         "aliases": [
-            "Miniclip SA"
+            "Eight Pixels Square",
+            "Gamebasics",
+            "Green Horse Games",
+            "Masomo",
+            "Miniclip SA",
+            "SYBO ApS",
+            "Supersonic Software",
+            "Sybo Games ApS"
         ],
         "properties": [
             "agar.io",
             "miniclip.com",
             "miniclipcdn.com",
-            "miniclippt.com"
+            "miniclippt.com",
+            "sybo.net",
+            "sybogames.com"
         ],
         "displayName": "Miniclip"
     },
@@ -102217,11 +102632,28 @@
     },
     "Mobvista": {
         "aliases": [
-            "Mobvista"
+            "Beijing Reyun Technology Co. Ltd.",
+            "Game Analytics ApS",
+            "GameAnalytics ApS",
+            "Mindworks Global Media Services",
+            "Mintegral",
+            "Mobvista",
+            "Talent Game Box"
         ],
         "properties": [
+            "adinsights.cn",
+            "cartoq.com",
             "dspunion.com",
-            "mobvista.com"
+            "gameanalytics.com",
+            "mindworks-creative.cn",
+            "mindworks-creative.com",
+            "mintegral.com",
+            "mobvista.com",
+            "nativex.com",
+            "rayjump.com",
+            "reyun.com",
+            "solar-engine.com",
+            "trackingio.com"
         ],
         "displayName": "Mobvista"
     },
@@ -107467,6 +107899,19 @@
         ],
         "displayName": "Neodata Group"
     },
+    "Neon Pagamentos S.A.": {
+        "aliases": [
+            "NEON Economic Group",
+            "Neon Pagamentos S.A.",
+            "Neon Pagamentos S.A. - Instituição de Pagamento"
+        ],
+        "properties": [
+            "meifacil.com",
+            "neon.com.br",
+            "neonpagamentos.com.br"
+        ],
+        "displayName": "Neon Payments"
+    },
     "Neottolemo Lda": {
         "aliases": [
             "Neottolemo Lda"
@@ -112011,6 +112456,23 @@
         ],
         "displayName": "Occasion Brands"
     },
+    "Ocean Management Holdings Limited": {
+        "aliases": [
+            "Beijing Funa Information Technology Co., Ltd.",
+            "Beijing Qunar Information Technology Company Limit",
+            "Beijing Qunar Information Technology Company Limited",
+            "Ocean Management Holdings Limited",
+            "北京趣拿信息技术有限公司"
+        ],
+        "properties": [
+            "qua.com",
+            "qunar.com",
+            "qunarcdn.com",
+            "qunarzz.com",
+            "qunr.com"
+        ],
+        "displayName": "Beijing Qunar Information Technology"
+    },
     "Ocean State Jobbers, Inc": {
         "aliases": [
             "Ocean State Jobbers, Inc"
@@ -116469,7 +116931,8 @@
     },
     "PRESIDÊNCIA DA REPÚBLICA": {
         "aliases": [
-            "PRESIDÊNCIA DA REPÚBLICA"
+            "PRESIDÊNCIA DA REPÚBLICA",
+            "Servicos e Informacoes do Brasil"
         ],
         "properties": [
             "acesso.gov.br",
@@ -118535,7 +118998,10 @@
     },
     "PayPal, Inc.": {
         "aliases": [
+            "Exchange Corporation Co., Ltd.",
             "Jetlore, Inc.",
+            "Paidy Co., Ltd.",
+            "Paidy Inc.",
             "PayPal Holdings, Inc.",
             "PayPal Pte Ltd",
             "PayPal, Inc."
@@ -118544,9 +119010,12 @@
             "braintree-api.com",
             "braintreegateway.com",
             "jetlore.com",
+            "joinhoney.com",
+            "paidy.com",
             "paypal-apps.com",
             "paypal-brasil.com.br",
             "paypal-community.com",
+            "paypal-corp.com",
             "paypal-deutschland.de",
             "paypal-forward.com",
             "paypal-france.fr",
@@ -118610,6 +119079,7 @@
             "paypalbenefits.com",
             "paypalobjects.com",
             "s-xoom.com",
+            "simility.com",
             "thepaypalblog.com",
             "venmo.com",
             "where.com",
@@ -120482,6 +120952,15 @@
         ],
         "displayName": "Pioneer Stream"
     },
+    "Pioneer Works, Inc.": {
+        "aliases": [
+            "Pioneer Works, Inc."
+        ],
+        "properties": [
+            "joinhomebase.com"
+        ],
+        "displayName": "Pioneer Works"
+    },
     "Piper Verlag GmbH": {
         "aliases": [
             "Piper Verlag GmbH"
@@ -122300,6 +122779,19 @@
             "preppergunshop.com"
         ],
         "displayName": "Prepper Gun Shop (ROUGHRIDER ARMS LLC)"
+    },
+    "President Chain Store Corporation": {
+        "aliases": [
+            "PRESIDENT CHAIN STORE CORPORATION",
+            "President Chain Store Corporation",
+            "Uni-President Supermarket Co., Ltd.",
+            "統一超商股份有限公司"
+        ],
+        "properties": [
+            "7-11.com.tw",
+            "sp88.com"
+        ],
+        "displayName": "President Chain Store Corporation"
     },
     "Presoft Limited": {
         "aliases": [
@@ -129820,6 +130312,15 @@
         ],
         "displayName": "ReviverSoft"
     },
+    "Revolut Ltd": {
+        "aliases": [
+            "Revolut Ltd"
+        ],
+        "properties": [
+            "revolut.com"
+        ],
+        "displayName": "Revolut"
+    },
     "Revolution Messaging, LLC": {
         "aliases": [
             "Revolution Messaging, LLC"
@@ -131219,6 +131720,15 @@
             "roots.com"
         ],
         "displayName": "Roots"
+    },
+    "Roppen Transportation Services Private Limited": {
+        "aliases": [
+            "Roppen Transportation Services Private Limited"
+        ],
+        "properties": [
+            "rapido.bike"
+        ],
+        "displayName": "Roppen Transportation Services"
     },
     "Roq.ad": {
         "aliases": [
@@ -133043,6 +133553,18 @@
         ],
         "displayName": "SHENZHEN ROYOLE"
     },
+    "SHINHAN BANK CO. LTD": {
+        "aliases": [
+            "SHINHAN BANK CO. LTD",
+            "Shinhan Financial Group Co., Ltd."
+        ],
+        "properties": [
+            "shinhan.com",
+            "shinhanglobal.com",
+            "shinhangroup.com"
+        ],
+        "displayName": "SHINHAN BANK"
+    },
     "SHIPITO LLC": {
         "aliases": [
             "SHIPITO LLC"
@@ -134632,15 +135154,6 @@
         ],
         "displayName": "SXSW"
     },
-    "SYBO ApS": {
-        "aliases": [
-            "SYBO ApS"
-        ],
-        "properties": [
-            "sybogames.com"
-        ],
-        "displayName": "SYBO"
-    },
     "SYNAPTENT LLC": {
         "aliases": [
             "SYNAPTENT LLC"
@@ -136180,6 +136693,18 @@
             "saxontheweb.net"
         ],
         "displayName": "Sax on the Web"
+    },
+    "SayGames LTD": {
+        "aliases": [
+            "SayGames LTD"
+        ],
+        "properties": [
+            "say.games",
+            "saygames.by",
+            "saygames.io",
+            "sgdn.io"
+        ],
+        "displayName": "SayGames LTD"
     },
     "Sazze, Inc.": {
         "aliases": [
@@ -138123,6 +138648,29 @@
         ],
         "displayName": "Seven Network Operations"
     },
+    "Seven-Eleven Japan Co., Ltd": {
+        "aliases": [
+            "7-Eleven (China) Investment Co., Ltd.",
+            "7-Eleven, Inc.",
+            "SEVEN-ELEVEN (HAWAII), INC.",
+            "Seven & I Holdings Co. Ltd.",
+            "Seven-Eleven Japan Co., Ltd"
+        ],
+        "properties": [
+            "7-11bj.com",
+            "7-11cd.cn",
+            "7-eleven.com",
+            "7andi.co.jp",
+            "7dream.com",
+            "7elevenhawaii.com",
+            "7meal.jp",
+            "7midori.org",
+            "7netshopping.jp",
+            "omni7.jp",
+            "sej.co.jp"
+        ],
+        "displayName": "Seven-Eleven Japan"
+    },
     "SevenOne Media GmbH": {
         "aliases": [
             "SevenOne Media GmbH"
@@ -138372,28 +138920,6 @@
             "oaloft.com"
         ],
         "displayName": "Shanghai Hexu Information Technology"
-    },
-    "Shanghai JunZheng Network Technology Co., Ltd.": {
-        "aliases": [
-            "Hellobike",
-            "Shanghai JunZheng Network Technology Co., Ltd.",
-            "上海钧正网络科技有限公司",
-            "哈啰出行"
-        ],
-        "properties": [
-            "51downapp.cn",
-            "c3x.me",
-            "cheyaoshi.com",
-            "hello-inc.com",
-            "hellobike.cn",
-            "hellobike.com",
-            "helloglobal.com",
-            "hellolocallife.com",
-            "hzhaxing.com",
-            "ttbike.com.cn",
-            "yijugame.cn"
-        ],
-        "displayName": "Shanghai JunZheng Network Technology"
     },
     "Shanghai Meikai Technology Co., LTD": {
         "aliases": [
@@ -138910,8 +139436,11 @@
             "深圳市和讯华谷信息技术有限公司"
         ],
         "properties": [
+            "engagelab.com",
             "jiguang.cn",
-            "jpush.cn"
+            "jpush.cn",
+            "moonfox.cn",
+            "sendcloud.net"
         ],
         "displayName": "Shenzhen Hexun Huagu Information Technology"
     },
@@ -138972,6 +139501,17 @@
             "tomtop.com"
         ],
         "displayName": "Shenzhen TOMTOP Technology"
+    },
+    "Shenzhen Wegooooo Technology Co., Ltd": {
+        "aliases": [
+            "Shenzhen Wegooooo Technology Co., Ltd",
+            "Shenzhen Weigou Technology Co., Ltd."
+        ],
+        "properties": [
+            "szwego.com",
+            "wegooooo.com"
+        ],
+        "displayName": "Shenzhen Wegooooo"
     },
     "Shenzhen Yunfan Acceleration Technology Co., Ltd.": {
         "aliases": [
@@ -145670,6 +146210,15 @@
         ],
         "displayName": "SplitmediaLabs"
     },
+    "Splitwise, Inc.": {
+        "aliases": [
+            "Splitwise, Inc."
+        ],
+        "properties": [
+            "splitwise.com"
+        ],
+        "displayName": "Splitwise, Inc."
+    },
     "Splunk, Inc.": {
         "aliases": [
             "Splunk, Inc."
@@ -148417,10 +148966,34 @@
     },
     "Stillfront Group": {
         "aliases": [
-            "Stillfront Group"
+            "Babil Games",
+            "Candywriter",
+            "Everguild",
+            "Game Labs",
+            "Goodgame Studios",
+            "Imperia Online",
+            "Jawaker",
+            "KIXEYE",
+            "MOONFROG LABS PRIVATE LIMITED",
+            "Moonfroglabs Pvt. Ltd.",
+            "Nanobit",
+            "Playa Games",
+            "Sandbox Interactive",
+            "Simutronics",
+            "Six Waves Inc.",
+            "Stillfront Group",
+            "Storm8",
+            "Super Free Games",
+            "eRepublik Labs"
         ],
         "properties": [
-            "ludoclub.in"
+            "ludoclub.com",
+            "ludoclub.in",
+            "moonfroglabs.com",
+            "moonfroglabs.in",
+            "parcheesiclub.com",
+            "parcheesiclub.in",
+            "stillfront.com"
         ],
         "displayName": "Stillfront Group"
     },
@@ -149316,15 +149889,6 @@
             "sunpower.com"
         ],
         "displayName": "SunPower"
-    },
-    "SunTrust Banks, Inc": {
-        "aliases": [
-            "SunTrust Banks, Inc"
-        ],
-        "properties": [
-            "suntrust.com"
-        ],
-        "displayName": "SunTrust Banks"
     },
     "SunWing Canada Inc.": {
         "aliases": [
@@ -151560,6 +152124,17 @@
         ],
         "displayName": "TETE A MODELER"
     },
+    "TFlat Học Tiếng Anh": {
+        "aliases": [
+            "Hieu Le|1179790056",
+            "TFlat Học Tiếng Anh"
+        ],
+        "properties": [
+            "tflat.vn",
+            "tienganhtflat.com"
+        ],
+        "displayName": "TFlat"
+    },
     "TGC, LLC": {
         "aliases": [
             "TGC, Inc.",
@@ -153272,15 +153847,6 @@
         ],
         "displayName": "Talar Producciones"
     },
-    "Talent Game Box": {
-        "aliases": [
-            "Talent Game Box"
-        ],
-        "properties": [
-            "rayjump.com"
-        ],
-        "displayName": "Talent Game Box"
-    },
     "Talent Inc.": {
         "aliases": [
             "Talent Inc."
@@ -153352,6 +153918,17 @@
             "tamugaia.com"
         ],
         "displayName": "Tamugaia"
+    },
+    "Tander ZAO": {
+        "aliases": [
+            "PJSC Magnit",
+            "Tander ZAO"
+        ],
+        "properties": [
+            "magnit.com",
+            "magnit.ru"
+        ],
+        "displayName": "Tander ZAO"
     },
     "Tandy Leather Factory": {
         "aliases": [
@@ -155130,6 +155707,16 @@
         ],
         "displayName": "Terminal Ballistics Research"
     },
+    "Terminal Eleven LLC": {
+        "aliases": [
+            "Terminal Eleven LLC"
+        ],
+        "properties": [
+            "term11.com",
+            "terminaleleven.com"
+        ],
+        "displayName": "Terminal Eleven"
+    },
     "Terminus": {
         "aliases": [
             "Terminus"
@@ -156186,11 +156773,15 @@
     },
     "The Coca-Cola Company": {
         "aliases": [
+            "Costa Limited",
+            "Costa Ltd",
             "The Coca-Cola Company"
         ],
         "properties": [
             "coca-colacompany.com",
-            "coke.com"
+            "coke.com",
+            "costa-platform.co.uk",
+            "costa.co.uk"
         ],
         "displayName": "The Coca-Cola Company"
     },
@@ -161355,6 +161946,26 @@
         ],
         "displayName": "Tonec"
     },
+    "Tongcheng Network Technology Co., Ltd.": {
+        "aliases": [
+            "Edraco Travel Ltd.",
+            "Tongcheng Group",
+            "Tongcheng International Travel Service Co., Ltd.",
+            "Tongcheng Network Technology Co., Ltd.",
+            "Tongcheng Travel Holdings Limited",
+            "Tongcheng-Elong Holdings Limited"
+        ],
+        "properties": [
+            "elong.com",
+            "elong.net",
+            "elongstatic.com",
+            "ly.com",
+            "tongchenbx.com",
+            "tongchengir.com",
+            "travelgo.com"
+        ],
+        "displayName": "Tongcheng Network Technology Co., Ltd."
+    },
     "Tongdun Technology": {
         "aliases": [
             "Tongdun Technology"
@@ -163781,6 +164392,21 @@
             "truffle.bid"
         ],
         "displayName": "Truffle"
+    },
+    "Truist Financial Corporation": {
+        "aliases": [
+            "BB&T Corporation",
+            "Branch Banking and Trust Company",
+            "SunTrust Banks, Inc",
+            "Truist Financial Corporation"
+        ],
+        "properties": [
+            "bbt.com",
+            "suntrust.com",
+            "truist.com",
+            "truist.mobi"
+        ],
+        "displayName": "Truist"
     },
     "Truman Hunt": {
         "aliases": [
@@ -166978,16 +167604,35 @@
         ],
         "displayName": "UnitedHealth Group"
     },
-    "Unity Technologies ApS": {
+    "Unity Software Inc.": {
         "aliases": [
-            "Unity Technologies ApS"
+            "IronSource Israel 2011",
+            "Luna Labs Limited",
+            "Rise Code Ltd.",
+            "SUPERSONIC STUDIOS LTD",
+            "StreamRail",
+            "Unity Software Inc.",
+            "Unity Technologies ApS",
+            "ironSource Ltd"
         ],
         "properties": [
+            "atom-data.io",
+            "ironsrc.mobi",
+            "isprog.com",
+            "lunalabs.io",
+            "risecodes.com",
+            "ssacdn.com",
+            "streamrail.com",
+            "streamrail.net",
+            "supersonic.com",
+            "supersonicads.com",
             "unity.com",
             "unity3d.com",
-            "unity3dusercontent.com"
+            "unity3dusercontent.com",
+            "vidiom.net",
+            "yellowblue.io"
         ],
-        "displayName": "Unity"
+        "displayName": "Unity (ironSource)"
     },
     "UnityPoint Health": {
         "aliases": [
@@ -170016,6 +170661,15 @@
         ],
         "displayName": "VKR Holding"
     },
+    "VKUSVILL, OOO": {
+        "aliases": [
+            "VKUSVILL, OOO"
+        ],
+        "properties": [
+            "vkusvill.ru"
+        ],
+        "displayName": "VkusVill"
+    },
     "VLN": {
         "aliases": [
             "VLN"
@@ -172673,6 +173327,16 @@
             "vinted.sk"
         ],
         "displayName": "Vinted"
+    },
+    "Vinu Labs Inc.": {
+        "aliases": [
+            "Soap Labs Co., Ltd.",
+            "Vinu Labs Inc."
+        ],
+        "properties": [
+            "everytime.kr"
+        ],
+        "displayName": "Vinu Labs"
     },
     "Viocorp International Pty Ltd": {
         "aliases": [
@@ -179774,6 +180438,15 @@
         ],
         "displayName": "Xia Men Ben Niao Dian Zi Shang Wu You Xian Gong Si"
     },
+    "Xiamen ZeroOne World Technology Co., Ltd.": {
+        "aliases": [
+            "Xiamen ZeroOne World Technology Co., Ltd."
+        ],
+        "properties": [
+            "xmzerone.com"
+        ],
+        "displayName": "Xiamen ZeroOne World Technology"
+    },
     "Xiangxiang Kong": {
         "aliases": [
             "Xiangxiang Kong"
@@ -180459,6 +181132,7 @@
     },
     "Yandex LLC": {
         "aliases": [
+            "Intertech Services AG",
             "Yandex LLC"
         ],
         "properties": [
@@ -180971,6 +181645,41 @@
             "mobile01.com"
         ],
         "displayName": "Yong Sheng Technology"
+    },
+    "Yonganxing Technology Co., Ltd.": {
+        "aliases": [
+            "Changzhou Kexin Yongan Electronic Lock Co., Ltd.",
+            "Changzhou Kexin Yongan Magnetic Equipment Co., Ltd.",
+            "Hello Bike",
+            "Hello Travel",
+            "Hellobike",
+            "Shanghai Haluo Pratt&Whitney Technology Co., Ltd",
+            "Shanghai Hello Puhui Technology Co., Ltd.",
+            "Shanghai JunZheng Network Technology Co., Ltd.",
+            "YOUON TECHNOLOGY CO.,LTD.",
+            "Yonganxing Low Carbon Technology Co., Ltd.",
+            "Yonganxing Technology Co., Ltd.",
+            "上海钧正网络科技有限公司",
+            "哈啰出行"
+        ],
+        "properties": [
+            "51downapp.cn",
+            "c3x.me",
+            "cheyaoshi.com",
+            "eversafelock.com",
+            "hello-inc.com",
+            "hellobike.cn",
+            "hellobike.com",
+            "helloglobal.com",
+            "hellolocallife.com",
+            "hzhaxing.com",
+            "ibike668.com",
+            "ttbike.com.cn",
+            "yijugame.cn",
+            "youonbikeshare.com",
+            "youonlife.cn"
+        ],
+        "displayName": "Hello Travel"
     },
     "Yonggang Duan": {
         "aliases": [
@@ -182010,14 +182719,20 @@
     },
     "Zenjoy Limited": {
         "aliases": [
+            "ZenLife Games Pte. Ltd.",
             "Zenjoy",
             "Zenjoy Limited",
             "Zentertain"
         ],
         "properties": [
+            "tuanguwen.com",
+            "zenjoy.com",
             "zenjoy.net",
             "zenjoy.net.cn",
+            "zenjoycooking.com",
+            "zenjoyhome.com",
             "zenkube.com",
+            "zenlifegames.com",
             "zentertain.net"
         ],
         "displayName": "Zenjoy"
@@ -186640,6 +187355,18 @@
         ],
         "displayName": "ibis"
     },
+    "iconic hearts, inc.": {
+        "aliases": [
+            "iconic hearts, inc."
+        ],
+        "properties": [
+            "drawnoteit.com",
+            "getsendit.com",
+            "iconichearts.com",
+            "noteit.fun"
+        ],
+        "displayName": "iconic hearts"
+    },
     "idee. Creativmarkt GmbH & Co. KG": {
         "aliases": [
             "idee. Creativmarkt GmbH & Co. KG"
@@ -186904,30 +187631,6 @@
             "iprice.sg"
         ],
         "displayName": "iprice group Sdn"
-    },
-    "ironSource Ltd": {
-        "aliases": [
-            "IronSource Israel 2011",
-            "Luna Labs Limited",
-            "Rise Code Ltd.",
-            "StreamRail",
-            "ironSource Ltd"
-        ],
-        "properties": [
-            "atom-data.io",
-            "ironsrc.mobi",
-            "isprog.com",
-            "lunalabs.io",
-            "risecodes.com",
-            "ssacdn.com",
-            "streamrail.com",
-            "streamrail.net",
-            "supersonic.com",
-            "supersonicads.com",
-            "vidiom.net",
-            "yellowblue.io"
-        ],
-        "displayName": "ironSource"
     },
     "ispgateway": {
         "aliases": [
