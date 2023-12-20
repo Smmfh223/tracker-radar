@@ -3,7 +3,9 @@
     "displayName": "DAZN",
     "properties": [
         "dazn.com",
+        "dazndn.com",
         "daznfeeds.com",
-        "daznservices.com"
+        "daznservices.com",
+        "indazn.com"
     ]
 }

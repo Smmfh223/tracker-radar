@@ -2,6 +2,8 @@
     "name": "Wink Tech",
     "displayName": "Wink Tech",
     "properties": [
-        "omi.sg"
+        "omi.sg",
+        "omiapp.me",
+        "omicdn.com"
     ]
 }

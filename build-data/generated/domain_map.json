@@ -30564,6 +30564,15 @@
         ],
         "displayName": "BNP PARIBAS"
     },
+    "bnpparibas.net": {
+        "entityName": "BNP PARIBAS SA",
+        "aliases": [
+            "BNP PARIBAS SA",
+            "BNP Paribas",
+            "BNP Paribas Fortis SA"
+        ],
+        "displayName": "BNP PARIBAS"
+    },
     "bnpparibasfortis.be": {
         "entityName": "BNP PARIBAS SA",
         "aliases": [
@@ -32593,6 +32602,15 @@
         "displayName": "Banco do Brasil"
     },
     "bandainamco.co.jp": {
+        "entityName": "Bandai Namco Holdings Inc.",
+        "aliases": [
+            "Bandai Namco Entertainment Inc.",
+            "Bandai Namco Holdings Inc.",
+            "株式会社バンダイナムコホールディングス"
+        ],
+        "displayName": "Bandai Namco Holdings Inc."
+    },
+    "channel.or.jp": {
         "entityName": "Bandai Namco Holdings Inc.",
         "aliases": [
             "Bandai Namco Entertainment Inc.",
@@ -37465,6 +37483,19 @@
         ],
         "displayName": "Beijing Jingdong Century Trading"
     },
+    "jddebug.com": {
+        "entityName": "Beijing Jingdong Century Trading Co., Ltd.",
+        "aliases": [
+            "BEIJING JINGDONG 360 DU E-COMMERCE LTD.",
+            "BEIJING JINGDONG SHANGKE INFORMATION TECHNOLOGY CO., LTD.",
+            "Beijing Jingdong Century Trading Co., Ltd.",
+            "Beijing Jingdong Financial Technology Holdings Co., Ltd",
+            "JD.com, Inc.",
+            "Jiangsu Jingdong Information Technology Co., Ltd.",
+            "京东JD.com 版权所有"
+        ],
+        "displayName": "Beijing Jingdong Century Trading"
+    },
     "jddj.com": {
         "entityName": "Beijing Jingdong Century Trading Co., Ltd.",
         "aliases": [
@@ -37739,6 +37770,18 @@
         ],
         "displayName": "Bejing Kuaishou Technology"
     },
+    "kuaishou.cn": {
+        "entityName": "Beijing Kuaishou Technology Ltd.",
+        "aliases": [
+            "Beijing Huayi Huilong Network Technology Co., Ltd.",
+            "Beijing Kuaishou Technology Co.,Ltd.",
+            "Beijing Kwai Technology Co., Ltd.",
+            "Bejing Kuaishou Technology Co., Ltd.",
+            "Bejing Kuaishou Technology Ltd.",
+            "Kwai Technology"
+        ],
+        "displayName": "Bejing Kuaishou Technology"
+    },
     "kuaishou.com": {
         "entityName": "Beijing Kuaishou Technology Ltd.",
         "aliases": [
@@ -37800,6 +37843,18 @@
         "displayName": "Bejing Kuaishou Technology"
     },
     "kwaizt.com": {
+        "entityName": "Beijing Kuaishou Technology Ltd.",
+        "aliases": [
+            "Beijing Huayi Huilong Network Technology Co., Ltd.",
+            "Beijing Kuaishou Technology Co.,Ltd.",
+            "Beijing Kwai Technology Co., Ltd.",
+            "Bejing Kuaishou Technology Co., Ltd.",
+            "Bejing Kuaishou Technology Ltd.",
+            "Kwai Technology"
+        ],
+        "displayName": "Bejing Kuaishou Technology"
+    },
+    "kwimgs.com": {
         "entityName": "Beijing Kuaishou Technology Ltd.",
         "aliases": [
             "Beijing Huayi Huilong Network Technology Co., Ltd.",
@@ -39855,6 +39910,27 @@
             "Bio-Rad Laboratories, Inc."
         ],
         "displayName": "Bio-Rad Laboratories"
+    },
+    "analyst-station.com": {
+        "entityName": "BioCatch",
+        "aliases": [
+            "BioCatch"
+        ],
+        "displayName": "BioCatch"
+    },
+    "biocatch.com": {
+        "entityName": "BioCatch",
+        "aliases": [
+            "BioCatch"
+        ],
+        "displayName": "BioCatch"
+    },
+    "we-stats.com": {
+        "entityName": "BioCatch",
+        "aliases": [
+            "BioCatch"
+        ],
+        "displayName": "BioCatch"
     },
     "clue.run": {
         "entityName": "BioWink GmbH",
@@ -47480,6 +47556,28 @@
         "displayName": "ByteDance"
     },
     "pangolin-sdk-toutiao.com": {
+        "entityName": "ByteDance Ltd.",
+        "aliases": [
+            "BYTEDANCE PTE. LTD.",
+            "Beijing Bytedance Technology Co., Ltd.",
+            "Beijing Microlive Vision Technology Co., Ltd",
+            "Beijing Space Matrix Technology Co., Ltd.",
+            "Beijing Zhending Technology Co., Ltd.",
+            "ByteDance Ltd.",
+            "ByteDance Pte. Ltd.",
+            "Douyin",
+            "QINGYAN CAMERA",
+            "Shenzhen Lianmeng Technology Co.Ltd.",
+            "TikTok",
+            "TikTok Pte. Ltd.",
+            "Toutiao",
+            "北京臻鼎科技有限公司",
+            "字节跳动有限公司",
+            "深圳市脸萌科技有限公司"
+        ],
+        "displayName": "ByteDance"
+    },
+    "pangolin-sdk-toutiao1.com": {
         "entityName": "ByteDance Ltd.",
         "aliases": [
             "BYTEDANCE PTE. LTD.",
@@ -55237,6 +55335,14 @@
         "displayName": "Chilkat Software"
     },
     "chime.com": {
+        "entityName": "Chime Capital, LLC",
+        "aliases": [
+            "Chime Capital, LLC",
+            "Chime Financial, Inc."
+        ],
+        "displayName": "Chime Financial"
+    },
+    "chimebank.com": {
         "entityName": "Chime Capital, LLC",
         "aliases": [
             "Chime Capital, LLC",
@@ -63266,6 +63372,16 @@
         ],
         "displayName": "Comunio"
     },
+    "blablacar.co.uk": {
+        "entityName": "Comuto SA",
+        "aliases": [
+            "COMUTO",
+            "COMUTO SA",
+            "Comuto",
+            "Comuto SA"
+        ],
+        "displayName": "Comuto"
+    },
     "blablacar.com": {
         "entityName": "Comuto SA",
         "aliases": [
@@ -63287,6 +63403,16 @@
         "displayName": "Comuto"
     },
     "blablacar.ru": {
+        "entityName": "Comuto SA",
+        "aliases": [
+            "COMUTO",
+            "COMUTO SA",
+            "Comuto",
+            "Comuto SA"
+        ],
+        "displayName": "Comuto"
+    },
+    "klaxit.com": {
         "entityName": "Comuto SA",
         "aliases": [
             "COMUTO",
@@ -68522,6 +68648,22 @@
         ],
         "displayName": "CyberAgent"
     },
+    "cycomi.com": {
+        "entityName": "CyberAgent, Inc.",
+        "aliases": [
+            "AbemaTV",
+            "AbemaTV Inc.",
+            "Ameba",
+            "Avatta",
+            "CyberAgent Co., Ltd.",
+            "CyberAgent, Inc.",
+            "Cygames",
+            "Cygames, Inc.",
+            "SIROK, Inc.",
+            "株式会社シロク"
+        ],
+        "displayName": "CyberAgent"
+    },
     "growthbeat.com": {
         "entityName": "CyberAgent, Inc.",
         "aliases": [
@@ -69129,6 +69271,14 @@
         ],
         "displayName": "DAZN"
     },
+    "dazndn.com": {
+        "entityName": "DAZN Limited",
+        "aliases": [
+            "DAZN Limited",
+            "DAZN US LLC"
+        ],
+        "displayName": "DAZN"
+    },
     "daznfeeds.com": {
         "entityName": "DAZN Limited",
         "aliases": [
@@ -69138,6 +69288,14 @@
         "displayName": "DAZN"
     },
     "daznservices.com": {
+        "entityName": "DAZN Limited",
+        "aliases": [
+            "DAZN Limited",
+            "DAZN US LLC"
+        ],
+        "displayName": "DAZN"
+    },
+    "indazn.com": {
         "entityName": "DAZN Limited",
         "aliases": [
             "DAZN Limited",
@@ -72634,6 +72792,13 @@
         ],
         "displayName": "DeepIntent"
     },
+    "deepl.com": {
+        "entityName": "DeepL GmbH",
+        "aliases": [
+            "DeepL GmbH"
+        ],
+        "displayName": "DeepL"
+    },
     "linguee.com.br": {
         "entityName": "DeepL GmbH",
         "aliases": [
@@ -74564,6 +74729,13 @@
         ],
         "displayName": "Deutsche Post"
     },
+    "dhl.com": {
+        "entityName": "Deutsche Post AG",
+        "aliases": [
+            "Deutsche Post AG"
+        ],
+        "displayName": "Deutsche Post"
+    },
     "dhl.de": {
         "entityName": "Deutsche Post AG",
         "aliases": [
@@ -74572,6 +74744,13 @@
         "displayName": "Deutsche Post"
     },
     "dhlglobalmail.com": {
+        "entityName": "Deutsche Post AG",
+        "aliases": [
+            "Deutsche Post AG"
+        ],
+        "displayName": "Deutsche Post"
+    },
+    "dpdhl.com": {
         "entityName": "Deutsche Post AG",
         "aliases": [
             "Deutsche Post AG"
@@ -76662,6 +76841,13 @@
         ],
         "displayName": "Dirk Rossmann"
     },
+    "rossmann.net": {
+        "entityName": "Dirk Rossmann GmbH",
+        "aliases": [
+            "Dirk Rossmann GmbH"
+        ],
+        "displayName": "Dirk Rossmann"
+    },
     "discord.app": {
         "entityName": "Discord, Inc.",
         "aliases": [
@@ -77744,6 +77930,13 @@
             "Doom9 Networks"
         ],
         "displayName": "Doom9 Networks"
+    },
+    "cdn4dd.com": {
+        "entityName": "DoorDash, Inc.",
+        "aliases": [
+            "DoorDash, Inc."
+        ],
+        "displayName": "DoorDash"
     },
     "doordash.com": {
         "entityName": "DoorDash, Inc.",
@@ -110052,6 +110245,19 @@
         ],
         "displayName": "Google"
     },
+    "web.app": {
+        "entityName": "Google LLC",
+        "aliases": [
+            "Alooma",
+            "Alphabet Inc.",
+            "Charleston Road Registry, Inc.",
+            "Google Inc.",
+            "Google LLC",
+            "Waze Inc.",
+            "Waze Mobile"
+        ],
+        "displayName": "Google"
+    },
     "web.dev": {
         "entityName": "Google LLC",
         "aliases": [
@@ -113959,6 +114165,13 @@
         ],
         "displayName": "HANGZHOU JFTECH"
     },
+    "jftechws.com": {
+        "entityName": "HANGZHOU JFTECH CO., LTD.",
+        "aliases": [
+            "HANGZHOU JFTECH CO., LTD."
+        ],
+        "displayName": "HANGZHOU JFTECH"
+    },
     "xm030.cn": {
         "entityName": "HANGZHOU JFTECH CO., LTD.",
         "aliases": [
@@ -115751,48 +115964,6 @@
             "Harlan Brothers Productions, LLC"
         ],
         "displayName": "Harlan Brothers Productions"
-    },
-    "akg.com": {
-        "entityName": "Harman International Industries, Inc.",
-        "aliases": [
-            "Harman International Industries, Inc."
-        ],
-        "displayName": "Harman International Industries"
-    },
-    "harmankardon.com": {
-        "entityName": "Harman International Industries, Inc.",
-        "aliases": [
-            "Harman International Industries, Inc."
-        ],
-        "displayName": "Harman International Industries"
-    },
-    "harmanpro.com": {
-        "entityName": "Harman International Industries, Inc.",
-        "aliases": [
-            "Harman International Industries, Inc."
-        ],
-        "displayName": "Harman International Industries"
-    },
-    "jbl.com": {
-        "entityName": "Harman International Industries, Inc.",
-        "aliases": [
-            "Harman International Industries, Inc."
-        ],
-        "displayName": "Harman International Industries"
-    },
-    "jblpro.com": {
-        "entityName": "Harman International Industries, Inc.",
-        "aliases": [
-            "Harman International Industries, Inc."
-        ],
-        "displayName": "Harman International Industries"
-    },
-    "soundcraft.com": {
-        "entityName": "Harman International Industries, Inc.",
-        "aliases": [
-            "Harman International Industries, Inc."
-        ],
-        "displayName": "Harman International Industries"
     },
     "harmonica.com": {
         "entityName": "Harmonica.com LLC",
@@ -128596,13 +128767,6 @@
             "Independence Hall Association"
         ],
         "displayName": "Independence Hall Association"
-    },
-    "indy100.com": {
-        "entityName": "Independent Digital News & Media Ltd",
-        "aliases": [
-            "Independent Digital News & Media Ltd"
-        ],
-        "displayName": "Independent Digital News & Media"
     },
     "trustedchoice.com": {
         "entityName": "Independent Insurance Agents & Brokers of America, Inc.",
@@ -143900,6 +144064,25 @@
         ],
         "displayName": "Ahold Delhaize"
     },
+    "kpnmail.nl": {
+        "entityName": "Koninklijke Ahold Delhaize N.V.",
+        "aliases": [
+            "Ahold",
+            "Ahold Delhaize",
+            "Ahold Delhaize Licensing Sarl",
+            "Ahold Information Services Inc.",
+            "Ahold Licensing Sarl",
+            "Albert Heijn B.V.",
+            "Bol.com B.V.",
+            "Delhaize America",
+            "Delhaize Le Lion/De Leeuw",
+            "Fresh Direct, LLC",
+            "KPN HotSpots B.V.",
+            "Koninklijke Ahold Delhaize N.V.",
+            "Koninklijke KPN N.V."
+        ],
+        "displayName": "Ahold Delhaize"
+    },
     "s-bol.com": {
         "entityName": "Koninklijke Ahold Delhaize N.V.",
         "aliases": [
@@ -143938,26 +144121,31 @@
         ],
         "displayName": "Ahold Delhaize"
     },
+    "telfort.nl": {
+        "entityName": "Koninklijke Ahold Delhaize N.V.",
+        "aliases": [
+            "Ahold",
+            "Ahold Delhaize",
+            "Ahold Delhaize Licensing Sarl",
+            "Ahold Information Services Inc.",
+            "Ahold Licensing Sarl",
+            "Albert Heijn B.V.",
+            "Bol.com B.V.",
+            "Delhaize America",
+            "Delhaize Le Lion/De Leeuw",
+            "Fresh Direct, LLC",
+            "KPN HotSpots B.V.",
+            "Koninklijke Ahold Delhaize N.V.",
+            "Koninklijke KPN N.V."
+        ],
+        "displayName": "Ahold Delhaize"
+    },
     "dbnl.org": {
         "entityName": "Koninklijke Bibliotheek",
         "aliases": [
             "Koninklijke Bibliotheek"
         ],
         "displayName": "Koninklijke Bibliotheek"
-    },
-    "kpnmail.nl": {
-        "entityName": "Koninklijke KPN N.V.",
-        "aliases": [
-            "Koninklijke KPN N.V."
-        ],
-        "displayName": "Koninklijke KPN"
-    },
-    "telfort.nl": {
-        "entityName": "Koninklijke KPN N.V.",
-        "aliases": [
-            "Koninklijke KPN N.V."
-        ],
-        "displayName": "Koninklijke KPN"
     },
     "knaw.nl": {
         "entityName": "Koninklijke Nederlandse Akademie van Wetenschappen",
@@ -145009,6 +145197,14 @@
         "displayName": "Kölner Verkehrs-Betriebe"
     },
     "bathandbodyworks.com": {
+        "entityName": "L Brands, Inc.",
+        "aliases": [
+            "L Brands, Inc.",
+            "Victoria's Secret Stores Brand Management, Inc."
+        ],
+        "displayName": "L Brands"
+    },
+    "victoriassecret.co.uk": {
         "entityName": "L Brands, Inc.",
         "aliases": [
             "L Brands, Inc.",
@@ -156120,6 +156316,7 @@
     "livescore.com": {
         "entityName": "LiveScore Limited",
         "aliases": [
+            "Anzo Group",
             "Hanist Limited",
             "LiveScore Limited",
             "LiveScore Ltd."
@@ -156129,6 +156326,7 @@
     "livescore.us": {
         "entityName": "LiveScore Limited",
         "aliases": [
+            "Anzo Group",
             "Hanist Limited",
             "LiveScore Limited",
             "LiveScore Ltd."
@@ -156138,6 +156336,7 @@
     "livescorebet.com": {
         "entityName": "LiveScore Limited",
         "aliases": [
+            "Anzo Group",
             "Hanist Limited",
             "LiveScore Limited",
             "LiveScore Ltd."
@@ -156147,6 +156346,117 @@
     "livescoregroup.com": {
         "entityName": "LiveScore Limited",
         "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "ls-g.net": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia1.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia10.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia2.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia3.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia4.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia5.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia6.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia7.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia8.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
+            "Hanist Limited",
+            "LiveScore Limited",
+            "LiveScore Ltd."
+        ],
+        "displayName": "LiveScore"
+    },
+    "lsmedia9.com": {
+        "entityName": "LiveScore Limited",
+        "aliases": [
+            "Anzo Group",
             "Hanist Limited",
             "LiveScore Limited",
             "LiveScore Ltd."
@@ -156156,6 +156466,7 @@
     "virginbet.com": {
         "entityName": "LiveScore Limited",
         "aliases": [
+            "Anzo Group",
             "Hanist Limited",
             "LiveScore Limited",
             "LiveScore Ltd."
@@ -158418,27 +158729,35 @@
         ],
         "displayName": "M Shanken Communications"
     },
+    "mandmglobal.com": {
+        "entityName": "M&M Media, Inc.",
+        "aliases": [
+            "C Squared Networks Ltd",
+            "M&M Media, Inc."
+        ],
+        "displayName": "M&M Media"
+    },
     "projectcarmen.com": {
         "entityName": "M&M Media, Inc.",
         "aliases": [
-            "M&M Media, Inc.",
-            "MMM"
+            "C Squared Networks Ltd",
+            "M&M Media, Inc."
         ],
         "displayName": "M&M Media"
     },
     "trebel.io": {
         "entityName": "M&M Media, Inc.",
         "aliases": [
-            "M&M Media, Inc.",
-            "MMM"
+            "C Squared Networks Ltd",
+            "M&M Media, Inc."
         ],
         "displayName": "M&M Media"
     },
     "trebelmusic.com": {
         "entityName": "M&M Media, Inc.",
         "aliases": [
-            "M&M Media, Inc.",
-            "MMM"
+            "C Squared Networks Ltd",
+            "M&M Media, Inc."
         ],
         "displayName": "M&M Media"
     },
@@ -162778,6 +163097,19 @@
         "displayName": "Match Group"
     },
     "hinge.co": {
+        "entityName": "Match Group, Inc.",
+        "aliases": [
+            "Hinge, Inc.",
+            "Humor Rainbow, Inc.",
+            "Hyperconnect Inc.",
+            "Hyperconnect LLC",
+            "MATCH GROUP, INC",
+            "Match Group, Inc.",
+            "Match Group, LLC"
+        ],
+        "displayName": "Match Group"
+    },
+    "hpcnt.com": {
         "entityName": "Match Group, Inc.",
         "aliases": [
             "Hinge, Inc.",
@@ -171739,6 +172071,27 @@
         ],
         "displayName": "Microsoft"
     },
+    "msftauth.net": {
+        "entityName": "Microsoft Corporation",
+        "aliases": [
+            "AppNexus Inc",
+            "AppNexus, A Xandr Company",
+            "AppNexus, Inc.",
+            "Clypd",
+            "Drawbridge Inc",
+            "LinkedIn",
+            "LinkedIn Corporation",
+            "Microsoft Corporation",
+            "Nuance Communications, Inc.",
+            "ScanSoft, Inc.",
+            "Skype",
+            "SwiftKey",
+            "Xandr Data",
+            "Xandr Media",
+            "Xandr, Inc."
+        ],
+        "displayName": "Microsoft"
+    },
     "msftconnecttest.com": {
         "entityName": "Microsoft Corporation",
         "aliases": [
@@ -175920,6 +176273,22 @@
         ],
         "displayName": "Mind Tools"
     },
+    "mindbody.io": {
+        "entityName": "MindBody Inc",
+        "aliases": [
+            "MINDBODY Inc.",
+            "MindBody Inc"
+        ],
+        "displayName": "MindBody"
+    },
+    "mindbodyapis.com": {
+        "entityName": "MindBody Inc",
+        "aliases": [
+            "MINDBODY Inc.",
+            "MindBody Inc"
+        ],
+        "displayName": "MindBody"
+    },
     "mindbodyonline.com": {
         "entityName": "MindBody Inc",
         "aliases": [
@@ -178030,6 +178399,19 @@
         "displayName": "Mobvista"
     },
     "mintegral.com": {
+        "entityName": "Mobvista",
+        "aliases": [
+            "Beijing Reyun Technology Co. Ltd.",
+            "Game Analytics ApS",
+            "GameAnalytics ApS",
+            "Mindworks Global Media Services",
+            "Mintegral",
+            "Mobvista",
+            "Talent Game Box"
+        ],
+        "displayName": "Mobvista"
+    },
+    "mintegral.net": {
         "entityName": "Mobvista",
         "aliases": [
             "Beijing Reyun Technology Co. Ltd.",
@@ -180986,6 +181368,14 @@
         "displayName": "Mystery Ranch"
     },
     "myunidays.com": {
+        "entityName": "Myunidays Ltd",
+        "aliases": [
+            "MyUNiDAYS Ltd.",
+            "Myunidays Ltd"
+        ],
+        "displayName": "Myunidays"
+    },
+    "unidays.io": {
         "entityName": "Myunidays Ltd",
         "aliases": [
             "MyUNiDAYS Ltd.",
@@ -189953,7 +190343,36 @@
     "kiji.is": {
         "entityName": "Nordot Inc.",
         "aliases": [
-            "Nordot Inc."
+            "Nordot Co., Ltd.",
+            "Nordot Inc.",
+            "Nordot USA Inc"
+        ],
+        "displayName": "Nordot"
+    },
+    "nordot.app": {
+        "entityName": "Nordot Inc.",
+        "aliases": [
+            "Nordot Co., Ltd.",
+            "Nordot Inc.",
+            "Nordot USA Inc"
+        ],
+        "displayName": "Nordot"
+    },
+    "nordot.io": {
+        "entityName": "Nordot Inc.",
+        "aliases": [
+            "Nordot Co., Ltd.",
+            "Nordot Inc.",
+            "Nordot USA Inc"
+        ],
+        "displayName": "Nordot"
+    },
+    "nordot.jp": {
+        "entityName": "Nordot Inc.",
+        "aliases": [
+            "Nordot Co., Ltd.",
+            "Nordot Inc.",
+            "Nordot USA Inc"
         ],
         "displayName": "Nordot"
     },
@@ -198438,6 +198857,15 @@
         "displayName": "GoTo"
     },
     "tokopedia.com": {
+        "entityName": "PT GoTo Gojek Tokopedia Tbk",
+        "aliases": [
+            "PT GoTo Gojek Tokopedia Tbk",
+            "PT. GOTO GOJEK TOKOPEDIA TBK",
+            "PT. Tokopedia"
+        ],
+        "displayName": "GoTo"
+    },
+    "tokopedia.net": {
         "entityName": "PT GoTo Gojek Tokopedia Tbk",
         "aliases": [
             "PT GoTo Gojek Tokopedia Tbk",
@@ -217035,6 +217463,33 @@
         ],
         "displayName": "Ravi Trivedi"
     },
+    "contentstack.com": {
+        "entityName": "Raw Engineering LLC",
+        "aliases": [
+            "Contentstack Inc.",
+            "Raw Engineering LLC",
+            "raw engineering inc"
+        ],
+        "displayName": "Contentstack"
+    },
+    "contentstack.io": {
+        "entityName": "Raw Engineering LLC",
+        "aliases": [
+            "Contentstack Inc.",
+            "Raw Engineering LLC",
+            "raw engineering inc"
+        ],
+        "displayName": "Contentstack"
+    },
+    "raweng.com": {
+        "entityName": "Raw Engineering LLC",
+        "aliases": [
+            "Contentstack Inc.",
+            "Raw Engineering LLC",
+            "raw engineering inc"
+        ],
+        "displayName": "Contentstack"
+    },
     "rawgit.com": {
         "entityName": "RawGit",
         "aliases": [
@@ -223841,99 +224296,211 @@
         ],
         "displayName": "SANTE PORT ROYAL"
     },
-    "emarsys.com": {
+    "appgyver.com": {
         "entityName": "SAP SE",
         "aliases": [
+            "AppGyver Oy",
             "Emarsys eMarketing Systems AG",
             "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
             "Qualtrics, LLC",
             "SAP",
             "SAP America Inc.",
-            "SAP SE"
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
+        ],
+        "displayName": "SAP"
+    },
+    "emarsys.com": {
+        "entityName": "SAP SE",
+        "aliases": [
+            "AppGyver Oy",
+            "Emarsys eMarketing Systems AG",
+            "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
+            "Qualtrics, LLC",
+            "SAP",
+            "SAP America Inc.",
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
+        ],
+        "displayName": "SAP"
+    },
+    "emarsys.net": {
+        "entityName": "SAP SE",
+        "aliases": [
+            "AppGyver Oy",
+            "Emarsys eMarketing Systems AG",
+            "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
+            "Qualtrics, LLC",
+            "SAP",
+            "SAP America Inc.",
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
+        ],
+        "displayName": "SAP"
+    },
+    "leanix.net": {
+        "entityName": "SAP SE",
+        "aliases": [
+            "AppGyver Oy",
+            "Emarsys eMarketing Systems AG",
+            "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
+            "Qualtrics, LLC",
+            "SAP",
+            "SAP America Inc.",
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
         ],
         "displayName": "SAP"
     },
     "ondemand.com": {
         "entityName": "SAP SE",
         "aliases": [
+            "AppGyver Oy",
             "Emarsys eMarketing Systems AG",
             "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
             "Qualtrics, LLC",
             "SAP",
             "SAP America Inc.",
-            "SAP SE"
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
         ],
         "displayName": "SAP"
     },
     "qualtrics.com": {
         "entityName": "SAP SE",
         "aliases": [
+            "AppGyver Oy",
             "Emarsys eMarketing Systems AG",
             "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
             "Qualtrics, LLC",
             "SAP",
             "SAP America Inc.",
-            "SAP SE"
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
         ],
         "displayName": "SAP"
     },
     "sap.com": {
         "entityName": "SAP SE",
         "aliases": [
+            "AppGyver Oy",
             "Emarsys eMarketing Systems AG",
             "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
             "Qualtrics, LLC",
             "SAP",
             "SAP America Inc.",
-            "SAP SE"
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
         ],
         "displayName": "SAP"
     },
     "scarabresearch.com": {
         "entityName": "SAP SE",
         "aliases": [
+            "AppGyver Oy",
             "Emarsys eMarketing Systems AG",
             "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
             "Qualtrics, LLC",
             "SAP",
             "SAP America Inc.",
-            "SAP SE"
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
         ],
         "displayName": "SAP"
     },
     "seewhy.com": {
         "entityName": "SAP SE",
         "aliases": [
+            "AppGyver Oy",
             "Emarsys eMarketing Systems AG",
             "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
             "Qualtrics, LLC",
             "SAP",
             "SAP America Inc.",
-            "SAP SE"
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
         ],
         "displayName": "SAP"
     },
     "services.sap": {
         "entityName": "SAP SE",
         "aliases": [
+            "AppGyver Oy",
             "Emarsys eMarketing Systems AG",
             "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
             "Qualtrics, LLC",
             "SAP",
             "SAP America Inc.",
-            "SAP SE"
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
+        ],
+        "displayName": "SAP"
+    },
+    "signavio.com": {
+        "entityName": "SAP SE",
+        "aliases": [
+            "AppGyver Oy",
+            "Emarsys eMarketing Systems AG",
+            "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
+            "Qualtrics, LLC",
+            "SAP",
+            "SAP America Inc.",
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
         ],
         "displayName": "SAP"
     },
     "sybase.com": {
         "entityName": "SAP SE",
         "aliases": [
+            "AppGyver Oy",
             "Emarsys eMarketing Systems AG",
             "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
             "Qualtrics, LLC",
             "SAP",
             "SAP America Inc.",
-            "SAP SE"
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
+        ],
+        "displayName": "SAP"
+    },
+    "taulia.com": {
+        "entityName": "SAP SE",
+        "aliases": [
+            "AppGyver Oy",
+            "Emarsys eMarketing Systems AG",
+            "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
+            "Qualtrics, LLC",
+            "SAP",
+            "SAP America Inc.",
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
         ],
         "displayName": "SAP"
     },
@@ -226042,7 +226609,7 @@
             "Star Media Group Berhad",
             "Star Publications (Malaysia) Bhd"
         ],
-        "displayName": "SMG Entertainment Sdn"
+        "displayName": "SMG Entertainment"
     },
     "thestar.com.my": {
         "entityName": "SMG Entertainment Sdn. Bhd.",
@@ -226051,7 +226618,16 @@
             "Star Media Group Berhad",
             "Star Publications (Malaysia) Bhd"
         ],
-        "displayName": "SMG Entertainment Sdn"
+        "displayName": "SMG Entertainment"
+    },
+    "thestartv.com": {
+        "entityName": "SMG Entertainment Sdn. Bhd.",
+        "aliases": [
+            "SMG Entertainment Sdn. Bhd.",
+            "Star Media Group Berhad",
+            "Star Publications (Malaysia) Bhd"
+        ],
+        "displayName": "SMG Entertainment"
     },
     "smythstoys.com": {
         "entityName": "SMYTHS TOYS HQ UNLIMITED COMPANY",
@@ -229009,10 +229585,72 @@
         ],
         "displayName": "Samsonite"
     },
+    "akg.com": {
+        "entityName": "Samsung Electronics Co. Ltd",
+        "aliases": [
+            "Harman International Industries, Inc.",
+            "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
+            "Samsung Electronics Co. Ltd"
+        ],
+        "displayName": "Samsung"
+    },
+    "harmankardon.com": {
+        "entityName": "Samsung Electronics Co. Ltd",
+        "aliases": [
+            "Harman International Industries, Inc.",
+            "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
+            "Samsung Electronics Co. Ltd"
+        ],
+        "displayName": "Samsung"
+    },
+    "harmanpro.com": {
+        "entityName": "Samsung Electronics Co. Ltd",
+        "aliases": [
+            "Harman International Industries, Inc.",
+            "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
+            "Samsung Electronics Co. Ltd"
+        ],
+        "displayName": "Samsung"
+    },
+    "jbl.com": {
+        "entityName": "Samsung Electronics Co. Ltd",
+        "aliases": [
+            "Harman International Industries, Inc.",
+            "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
+            "Samsung Electronics Co. Ltd"
+        ],
+        "displayName": "Samsung"
+    },
+    "jblpro.com": {
+        "entityName": "Samsung Electronics Co. Ltd",
+        "aliases": [
+            "Harman International Industries, Inc.",
+            "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
+            "Samsung Electronics Co. Ltd"
+        ],
+        "displayName": "Samsung"
+    },
     "samsung.com": {
         "entityName": "Samsung Electronics Co. Ltd",
         "aliases": [
+            "Harman International Industries, Inc.",
             "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
+            "Samsung Electronics Co. Ltd"
+        ],
+        "displayName": "Samsung"
+    },
+    "samsung.com.cn": {
+        "entityName": "Samsung Electronics Co. Ltd",
+        "aliases": [
+            "Harman International Industries, Inc.",
+            "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
             "Samsung Electronics Co. Ltd"
         ],
         "displayName": "Samsung"
@@ -229020,7 +229658,19 @@
     "samsungapps.com": {
         "entityName": "Samsung Electronics Co. Ltd",
         "aliases": [
+            "Harman International Industries, Inc.",
             "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
+            "Samsung Electronics Co. Ltd"
+        ],
+        "displayName": "Samsung"
+    },
+    "soundcraft.com": {
+        "entityName": "Samsung Electronics Co. Ltd",
+        "aliases": [
+            "Harman International Industries, Inc.",
+            "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
             "Samsung Electronics Co. Ltd"
         ],
         "displayName": "Samsung"
@@ -236384,6 +237034,13 @@
         ],
         "displayName": "Shoppy Ecommerce"
     },
+    "shopre.me": {
+        "entityName": "Shopreme",
+        "aliases": [
+            "Shopreme"
+        ],
+        "displayName": "Shopreme"
+    },
     "shoprex.com": {
         "entityName": "Shoprex",
         "aliases": [
@@ -240451,6 +241108,13 @@
         ],
         "displayName": "Software & Support Media"
     },
+    "softwareag.com": {
+        "entityName": "Software AG",
+        "aliases": [
+            "Veeam Software AG"
+        ],
+        "displayName": "Software AG"
+    },
     "goconqr.com": {
         "entityName": "Software Asset Management Ireland Limited",
         "aliases": [
@@ -240840,12 +241504,43 @@
         ],
         "displayName": "Sonreign Media"
     },
+    "beyondsports.nl": {
+        "entityName": "Sony Corporation",
+        "aliases": [
+            "Ellation",
+            "Funimation Global Group, LLC",
+            "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
+            "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
+            "Sony Corporation",
+            "Sony DADC US Inc.",
+            "Sony Digital Network Applications, Inc.",
+            "Sony Financial Holdings Inc.",
+            "Sony Global Solutions Inc",
+            "Sony Home Entertainment & Sound Products Inc.",
+            "Sony Interactive Entertainment Europe Limited",
+            "Sony Interactive Entertainment Inc.",
+            "Sony Interactive Entertainment LLC",
+            "Sony Marketing Inc.",
+            "Sony Mobile Communications AB",
+            "Sony New Media Solutions Inc.",
+            "Sony Pictures Digital Productions Inc.",
+            "Sony Pictures Entertainment",
+            "Sony Pictures Entertainment Inc.",
+            "Sony Pictures Imageworks",
+            "Sony e-solutions Europe B.V",
+            "VRV",
+            "Visionarts, Inc."
+        ],
+        "displayName": "Sony"
+    },
     "buzzquizworld.com": {
         "entityName": "Sony Corporation",
         "aliases": [
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -240875,6 +241570,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -240904,6 +241600,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -240933,6 +241630,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -240962,6 +241660,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -240991,6 +241690,37 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
+            "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
+            "Sony Corporation",
+            "Sony DADC US Inc.",
+            "Sony Digital Network Applications, Inc.",
+            "Sony Financial Holdings Inc.",
+            "Sony Global Solutions Inc",
+            "Sony Home Entertainment & Sound Products Inc.",
+            "Sony Interactive Entertainment Europe Limited",
+            "Sony Interactive Entertainment Inc.",
+            "Sony Interactive Entertainment LLC",
+            "Sony Marketing Inc.",
+            "Sony Mobile Communications AB",
+            "Sony New Media Solutions Inc.",
+            "Sony Pictures Digital Productions Inc.",
+            "Sony Pictures Entertainment",
+            "Sony Pictures Entertainment Inc.",
+            "Sony Pictures Imageworks",
+            "Sony e-solutions Europe B.V",
+            "VRV",
+            "Visionarts, Inc."
+        ],
+        "displayName": "Sony"
+    },
+    "hawkeyeinnovations.com": {
+        "entityName": "Sony Corporation",
+        "aliases": [
+            "Ellation",
+            "Funimation Global Group, LLC",
+            "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241020,6 +241750,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241049,6 +241780,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241078,6 +241810,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241107,6 +241840,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241136,6 +241870,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241165,6 +241900,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241194,6 +241930,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241223,6 +241960,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241252,6 +241990,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241281,6 +242020,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241310,6 +242050,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241339,6 +242080,37 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
+            "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
+            "Sony Corporation",
+            "Sony DADC US Inc.",
+            "Sony Digital Network Applications, Inc.",
+            "Sony Financial Holdings Inc.",
+            "Sony Global Solutions Inc",
+            "Sony Home Entertainment & Sound Products Inc.",
+            "Sony Interactive Entertainment Europe Limited",
+            "Sony Interactive Entertainment Inc.",
+            "Sony Interactive Entertainment LLC",
+            "Sony Marketing Inc.",
+            "Sony Mobile Communications AB",
+            "Sony New Media Solutions Inc.",
+            "Sony Pictures Digital Productions Inc.",
+            "Sony Pictures Entertainment",
+            "Sony Pictures Entertainment Inc.",
+            "Sony Pictures Imageworks",
+            "Sony e-solutions Europe B.V",
+            "VRV",
+            "Visionarts, Inc."
+        ],
+        "displayName": "Sony"
+    },
+    "pulselive.com": {
+        "entityName": "Sony Corporation",
+        "aliases": [
+            "Ellation",
+            "Funimation Global Group, LLC",
+            "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241368,6 +242140,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241397,6 +242170,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241426,6 +242200,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241455,6 +242230,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241484,6 +242260,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241513,6 +242290,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241542,6 +242320,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241571,6 +242350,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241600,6 +242380,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241629,6 +242410,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241658,6 +242440,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241687,6 +242470,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241716,6 +242500,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241745,6 +242530,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241774,6 +242560,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241803,6 +242590,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241832,6 +242620,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241861,6 +242650,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241890,6 +242680,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241919,6 +242710,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241948,6 +242740,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -241977,6 +242770,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242006,6 +242800,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242035,6 +242830,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242064,6 +242860,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242093,6 +242890,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242122,6 +242920,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242151,6 +242950,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242180,6 +242980,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242209,6 +243010,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242238,6 +243040,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242267,6 +243070,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242296,6 +243100,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242325,6 +243130,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242354,6 +243160,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242383,6 +243190,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242412,6 +243220,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242441,6 +243250,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242470,6 +243280,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242499,6 +243310,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242528,6 +243340,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242557,6 +243370,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242586,6 +243400,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242615,6 +243430,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242644,6 +243460,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242673,6 +243490,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242702,6 +243520,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242731,6 +243550,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242760,6 +243580,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242789,6 +243610,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242818,6 +243640,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242847,6 +243670,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242876,6 +243700,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242905,6 +243730,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242934,6 +243760,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242963,6 +243790,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -242992,6 +243820,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243021,6 +243850,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243050,6 +243880,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243079,6 +243910,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243108,6 +243940,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243137,6 +243970,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243166,6 +244000,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243195,6 +244030,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243224,6 +244060,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243253,6 +244090,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243282,6 +244120,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243311,6 +244150,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243340,6 +244180,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243369,6 +244210,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243398,6 +244240,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243427,6 +244270,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243456,6 +244300,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243485,6 +244330,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243514,6 +244360,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243543,6 +244390,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243572,6 +244420,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243601,6 +244450,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243630,6 +244480,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243659,6 +244510,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243688,6 +244540,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243717,6 +244570,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243746,6 +244600,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243775,6 +244630,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243804,6 +244660,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243833,6 +244690,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243862,6 +244720,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243891,6 +244750,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243920,6 +244780,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243949,6 +244810,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -243978,6 +244840,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -244007,6 +244870,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -247043,6 +247907,14 @@
         ],
         "displayName": "Spotify"
     },
+    "spotifycdn.com": {
+        "entityName": "Spotify AB",
+        "aliases": [
+            "Chartable Holding, Inc.",
+            "Spotify AB"
+        ],
+        "displayName": "Spotify"
+    },
     "celulardireto.com.br": {
         "entityName": "Spread Trading Comercio de Equipamento Telefonico",
         "aliases": [
@@ -248752,13 +249624,6 @@
             "Star Local Media, LLC"
         ],
         "displayName": "Star Local Media"
-    },
-    "thestartv.com": {
-        "entityName": "Star Media Group Berhad",
-        "aliases": [
-            "Star Media Group Berhad"
-        ],
-        "displayName": "Star Media Group Berhad"
     },
     "starstable.com": {
         "entityName": "Star Stable Entertainment AB",
@@ -253475,6 +254340,30 @@
             "Syncronex"
         ],
         "displayName": "Syncronex"
+    },
+    "riversand.com": {
+        "entityName": "Syndigo LLC",
+        "aliases": [
+            "Riversand",
+            "Syndigo LLC"
+        ],
+        "displayName": "Syndigo"
+    },
+    "syndigo.cloud": {
+        "entityName": "Syndigo LLC",
+        "aliases": [
+            "Riversand",
+            "Syndigo LLC"
+        ],
+        "displayName": "Syndigo"
+    },
+    "syndigo.com": {
+        "entityName": "Syndigo LLC",
+        "aliases": [
+            "Riversand",
+            "Syndigo LLC"
+        ],
+        "displayName": "Syndigo"
     },
     "snrcdn.net": {
         "entityName": "Synerise SA",
@@ -259474,6 +260363,13 @@
         ],
         "displayName": "Taima Enterprises"
     },
+    "twca.com.tw": {
+        "entityName": "Taiwan Network Certification Co., Ltd.",
+        "aliases": [
+            "Taiwan Network Certification Co., Ltd."
+        ],
+        "displayName": "Taiwan Network Certification"
+    },
     "56lm.cc": {
         "entityName": "Taiwan hsinchu science park",
         "aliases": [
@@ -261632,6 +262528,7 @@
     "acimg.cn": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261652,13 +262549,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "cdn-go.cn": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261679,13 +262578,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "codmwest.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261706,13 +262607,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "fanxing.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261733,13 +262636,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "gdtimg.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261760,13 +262665,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "gpubgm.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261787,13 +262694,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "gtimg.cn": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261814,13 +262723,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "gtimg.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261841,13 +262752,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "idqqimg.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261868,13 +262781,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "joox.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261895,13 +262810,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "kgimg.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261922,13 +262839,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "kingroot.net": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261949,13 +262868,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "koowo.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -261976,13 +262897,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "kugou.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262003,13 +262926,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "kuwo.cn": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262030,13 +262955,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "myapp.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262057,13 +262984,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "myqcloud.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262084,13 +263013,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "pubgmobile.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262111,13 +263042,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "qcloud.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262138,13 +263071,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "qlogo.cn": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262165,13 +263100,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "qpic.cn": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262192,13 +263129,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "qq.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262219,13 +263158,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "qqmail.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262246,13 +263187,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "qzone.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262273,13 +263216,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "servicewechat.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262300,13 +263245,44 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
+        ],
+        "displayName": "Tencent"
+    },
+    "ssrcdn.com": {
+        "entityName": "Tencent Holdings Ltd.",
+        "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
+            "Guangzhou KuGou Technology CO. , LTD",
+            "KuGou Technology CO. , LTD",
+            "Kuwo Tianjin Co., Ltd.",
+            "Oriental Power Holdings Limited",
+            "Shenzhen Tencent Computer Systems CO.,Ltd",
+            "Shenzhen Tencent Computer Systems Company Limited",
+            "Tencent Digital (Tianjin) Co., Ltd .",
+            "Tencent Games",
+            "Tencent Holdings Ltd.",
+            "Tencent Interactive Entertainment",
+            "Tencent International Service Europe BV",
+            "Tencent International Service Pte. Ltd",
+            "Tencent Mobile International Limited",
+            "Tencent Mobility Limited",
+            "Tencent Music",
+            "Tencent Music Entertainment Group",
+            "Tencent Technology (Beijing) Company Limited",
+            "Tencent Technology (Shanghai) Co., Ltd",
+            "Tencent Technology (Shenzhen) Company Limited",
+            "WeChat International (Canada) Limited",
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "sumogroupltd.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262327,13 +263303,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "tencent.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262354,13 +263332,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "tencentmusic.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262381,13 +263361,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "tenpay.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262408,13 +263390,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "tingmall.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262435,13 +263419,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "ugdtimg.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262462,13 +263448,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "ultimatemusic.cn": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262489,13 +263477,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "url.cn": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262516,13 +263506,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "we.chat": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262543,13 +263535,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "wechat.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262570,13 +263564,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "wechat.org": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262597,13 +263593,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "wechatapp.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262624,13 +263622,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "wecomics.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262651,13 +263651,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "weixin.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262678,13 +263680,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "weixinbridge.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262705,13 +263709,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "weiyun.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262732,13 +263738,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "wesingapp.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262759,13 +263767,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "wetv.vip": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262786,13 +263796,15 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
     "wetvinfo.com": {
         "entityName": "Tencent Holdings Ltd.",
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -262813,7 +263825,8 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "displayName": "Tencent"
     },
@@ -264014,6 +265027,15 @@
         "displayName": "The Coca-Cola Company"
     },
     "costa-platform.co.uk": {
+        "entityName": "The Coca-Cola Company",
+        "aliases": [
+            "Costa Limited",
+            "Costa Ltd",
+            "The Coca-Cola Company"
+        ],
+        "displayName": "The Coca-Cola Company"
+    },
+    "costa-platform.com": {
         "entityName": "The Coca-Cola Company",
         "aliases": [
             "Costa Limited",
@@ -265316,6 +266338,86 @@
             "The Hut.com Ltd."
         ],
         "displayName": "The Hut.com"
+    },
+    "independent.co.uk": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
+    },
+    "independentadvertising.com": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
+    },
+    "independentarabia.com": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
+    },
+    "independentespanol.com": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
+    },
+    "independentpersian.com": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
+    },
+    "independenturdu.com": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
+    },
+    "indy100.com": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
+    },
+    "indyturk.com": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
+    },
+    "standard.co.uk": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
+    },
+    "the-independent.com": {
+        "entityName": "The Independent",
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "displayName": "The Independent"
     },
     "theinfatuation.com": {
         "entityName": "The Infatuation Inc.",
@@ -273226,6 +274328,13 @@
             "The big history, limited liability company"
         ],
         "displayName": "The big history"
+    },
+    "the72.co.uk": {
+        "entityName": "The72 Publishing Ltd",
+        "aliases": [
+            "The72 Publishing Ltd"
+        ],
+        "displayName": "The72 Publishing"
     },
     "theadulttoyshop.com": {
         "entityName": "TheAdultToyShop",
@@ -282372,6 +283481,14 @@
         ],
         "displayName": "Twilio"
     },
+    "twil.io": {
+        "entityName": "Twilio, Inc.",
+        "aliases": [
+            "Twilio Inc.",
+            "Twilio, Inc."
+        ],
+        "displayName": "Twilio"
+    },
     "twilio.com": {
         "entityName": "Twilio, Inc.",
         "aliases": [
@@ -284891,7 +286008,77 @@
         ],
         "displayName": "Unionen"
     },
+    "7atghwvo.uk": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
+    "a8ieo.com": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
+    "dg287.net": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
+    "fg6c33cp.com": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
+    "g0khp2likq.com": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
+    "ln7c.net": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
+    "r1fdwmi0.com": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
+    "rwbz.net": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
     "uniqodo.com": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
+    "uqd.io": {
+        "entityName": "Uniqodo Limited",
+        "aliases": [
+            "Uniqodo Limited"
+        ],
+        "displayName": "Uniqodo"
+    },
+    "xcj85hmf.net": {
         "entityName": "Uniqodo Limited",
         "aliases": [
             "Uniqodo Limited"
@@ -285372,6 +286559,96 @@
         "displayName": "United Internet"
     },
     "gmx.net": {
+        "entityName": "United Internet AG",
+        "aliases": [
+            "1&1 AG",
+            "1&1 AG (a subsidiary of United Internet Group AG)",
+            "1&1 De-Mail GmbH",
+            "1&1 Drillisch AG",
+            "1&1 Energy GmbH",
+            "1&1 IONOS España S.L.U.",
+            "1&1 IONOS Inc.",
+            "1&1 IONOS Ltd.",
+            "1&1 IONOS S.A.R.L.",
+            "1&1 IONOS SE",
+            "1&1 Internet Inc.",
+            "1&1 Internet Limited",
+            "1&1 Internet SARL",
+            "1&1 Internet SE",
+            "1&1 Mail & Media Applications SE",
+            "1&1 Mail & Media GmbH",
+            "1&1 Mail & Media Inc.",
+            "1&1 Telecom GmbH",
+            "1&1 Versatel Germany GmbH",
+            "1&1 Versatel GmbH",
+            "Arsys Internet S.L.U.",
+            "Drillisch Online GmbH",
+            "Fasthosts Internet Ltd.",
+            "IONOS Cloud Ltd.",
+            "IONOS Cloud S.L.U.",
+            "IONOS Inc.",
+            "IONOS S.A.R.L.",
+            "IONOS TopCo SE",
+            "InterNetX GmbH",
+            "Sedo Domain Parking",
+            "Sedo GmbH",
+            "United Internet AG",
+            "United Internet Corporate Services GmbH",
+            "United Internet Investments Holding AG & Co. KG",
+            "United Internet Media GmbH",
+            "World4You Internet Services GmbH",
+            "home.pl S.A.",
+            "united-domains AG",
+            "we22 AG"
+        ],
+        "displayName": "United Internet"
+    },
+    "home.pl": {
+        "entityName": "United Internet AG",
+        "aliases": [
+            "1&1 AG",
+            "1&1 AG (a subsidiary of United Internet Group AG)",
+            "1&1 De-Mail GmbH",
+            "1&1 Drillisch AG",
+            "1&1 Energy GmbH",
+            "1&1 IONOS España S.L.U.",
+            "1&1 IONOS Inc.",
+            "1&1 IONOS Ltd.",
+            "1&1 IONOS S.A.R.L.",
+            "1&1 IONOS SE",
+            "1&1 Internet Inc.",
+            "1&1 Internet Limited",
+            "1&1 Internet SARL",
+            "1&1 Internet SE",
+            "1&1 Mail & Media Applications SE",
+            "1&1 Mail & Media GmbH",
+            "1&1 Mail & Media Inc.",
+            "1&1 Telecom GmbH",
+            "1&1 Versatel Germany GmbH",
+            "1&1 Versatel GmbH",
+            "Arsys Internet S.L.U.",
+            "Drillisch Online GmbH",
+            "Fasthosts Internet Ltd.",
+            "IONOS Cloud Ltd.",
+            "IONOS Cloud S.L.U.",
+            "IONOS Inc.",
+            "IONOS S.A.R.L.",
+            "IONOS TopCo SE",
+            "InterNetX GmbH",
+            "Sedo Domain Parking",
+            "Sedo GmbH",
+            "United Internet AG",
+            "United Internet Corporate Services GmbH",
+            "United Internet Investments Holding AG & Co. KG",
+            "United Internet Media GmbH",
+            "World4You Internet Services GmbH",
+            "home.pl S.A.",
+            "united-domains AG",
+            "we22 AG"
+        ],
+        "displayName": "United Internet"
+    },
+    "hub.com.pl": {
         "entityName": "United Internet AG",
         "aliases": [
             "1&1 AG",
@@ -285957,6 +287234,51 @@
         "displayName": "United Internet"
     },
     "uimserv.net": {
+        "entityName": "United Internet AG",
+        "aliases": [
+            "1&1 AG",
+            "1&1 AG (a subsidiary of United Internet Group AG)",
+            "1&1 De-Mail GmbH",
+            "1&1 Drillisch AG",
+            "1&1 Energy GmbH",
+            "1&1 IONOS España S.L.U.",
+            "1&1 IONOS Inc.",
+            "1&1 IONOS Ltd.",
+            "1&1 IONOS S.A.R.L.",
+            "1&1 IONOS SE",
+            "1&1 Internet Inc.",
+            "1&1 Internet Limited",
+            "1&1 Internet SARL",
+            "1&1 Internet SE",
+            "1&1 Mail & Media Applications SE",
+            "1&1 Mail & Media GmbH",
+            "1&1 Mail & Media Inc.",
+            "1&1 Telecom GmbH",
+            "1&1 Versatel Germany GmbH",
+            "1&1 Versatel GmbH",
+            "Arsys Internet S.L.U.",
+            "Drillisch Online GmbH",
+            "Fasthosts Internet Ltd.",
+            "IONOS Cloud Ltd.",
+            "IONOS Cloud S.L.U.",
+            "IONOS Inc.",
+            "IONOS S.A.R.L.",
+            "IONOS TopCo SE",
+            "InterNetX GmbH",
+            "Sedo Domain Parking",
+            "Sedo GmbH",
+            "United Internet AG",
+            "United Internet Corporate Services GmbH",
+            "United Internet Investments Holding AG & Co. KG",
+            "United Internet Media GmbH",
+            "World4You Internet Services GmbH",
+            "home.pl S.A.",
+            "united-domains AG",
+            "we22 AG"
+        ],
+        "displayName": "United Internet"
+    },
+    "united-domains.de": {
         "entityName": "United Internet AG",
         "aliases": [
             "1&1 AG",
@@ -286643,6 +287965,20 @@
         "displayName": "Unity (ironSource)"
     },
     "vidiom.net": {
+        "entityName": "Unity Software Inc.",
+        "aliases": [
+            "IronSource Israel 2011",
+            "Luna Labs Limited",
+            "Rise Code Ltd.",
+            "SUPERSONIC STUDIOS LTD",
+            "StreamRail",
+            "Unity Software Inc.",
+            "Unity Technologies ApS",
+            "ironSource Ltd"
+        ],
+        "displayName": "Unity (ironSource)"
+    },
+    "vivox.com": {
         "entityName": "Unity Software Inc.",
         "aliases": [
             "IronSource Israel 2011",
@@ -290369,7 +291705,9 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290377,7 +291715,19 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
+        ],
+        "displayName": "VNG"
+    },
+    "vcdn.cloud": {
+        "entityName": "VNG Corporation",
+        "aliases": [
+            "VNG CORPORATION",
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290385,7 +291735,9 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290393,7 +291745,9 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290401,7 +291755,9 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290409,7 +291765,9 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290417,7 +291775,9 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290425,7 +291785,9 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290433,7 +291795,9 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290441,7 +291805,9 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
     },
@@ -290449,13 +291815,112 @@
         "entityName": "VNG Corporation",
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "displayName": "VNG"
+    },
+    "vivnpay.vn": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vninvoice.vn": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnlife-sg.com": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnlife-sg.com.vn": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnlife-sg.net": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnlife-sg.vn": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnlife.com.vn": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnlife.net": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnlife.vn": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
     },
     "vnpay.vn": {
         "entityName": "VNPAY JSC",
         "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnpaypos.vn": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnpayqr.vn": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
+            "VNPAY JSC"
+        ],
+        "displayName": "VNPAY"
+    },
+    "vnpaytest.vn": {
+        "entityName": "VNPAY JSC",
+        "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
             "VNPAY JSC"
         ],
         "displayName": "VNPAY"
@@ -291996,7 +293461,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292017,7 +293481,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292038,7 +293501,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292059,7 +293521,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292080,7 +293541,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292101,7 +293561,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292122,7 +293581,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292143,7 +293601,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292164,7 +293621,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292185,7 +293641,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292206,7 +293661,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292227,7 +293681,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292248,7 +293701,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292269,7 +293721,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292290,7 +293741,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292311,7 +293761,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292332,7 +293781,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292353,7 +293801,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292374,7 +293821,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292395,7 +293841,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292416,7 +293861,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292437,7 +293881,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292458,7 +293901,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292479,7 +293921,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292500,7 +293941,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292521,7 +293961,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292542,7 +293981,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292563,7 +294001,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292584,7 +294021,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292605,7 +294041,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292626,7 +294061,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292647,7 +294081,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292668,7 +294101,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292689,7 +294121,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292710,7 +294141,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292731,7 +294161,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292752,7 +294181,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292773,7 +294201,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292794,7 +294221,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292815,7 +294241,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292836,7 +294261,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292857,7 +294281,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292878,7 +294301,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292899,7 +294321,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292920,7 +294341,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292941,7 +294361,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292962,7 +294381,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -292983,7 +294401,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293004,7 +294421,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293025,7 +294441,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293046,7 +294461,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293067,7 +294481,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293088,7 +294501,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293109,7 +294521,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293130,7 +294541,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293151,7 +294561,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293172,7 +294581,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293193,7 +294601,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293214,7 +294621,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293235,7 +294641,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293256,7 +294661,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293277,7 +294681,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293298,7 +294701,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293319,7 +294721,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293340,7 +294741,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293361,7 +294761,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293382,7 +294781,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293403,7 +294801,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293424,7 +294821,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293445,7 +294841,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293466,7 +294861,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293487,7 +294881,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293508,7 +294901,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293529,7 +294921,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293550,7 +294941,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293571,7 +294961,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293592,7 +294981,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293613,7 +295001,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293634,7 +295021,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293655,7 +295041,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293676,7 +295061,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293697,7 +295081,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293718,7 +295101,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293739,7 +295121,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293760,7 +295141,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293781,7 +295161,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293802,7 +295181,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293823,7 +295201,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293844,7 +295221,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293865,7 +295241,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293886,7 +295261,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293907,7 +295281,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293928,7 +295301,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293949,7 +295321,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293970,7 +295341,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -293991,7 +295361,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294012,7 +295381,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294033,7 +295401,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294054,7 +295421,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294075,7 +295441,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294096,7 +295461,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294117,7 +295481,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294138,7 +295501,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294159,7 +295521,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294180,7 +295541,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294201,7 +295561,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294222,7 +295581,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294243,7 +295601,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294264,7 +295621,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294285,7 +295641,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294306,7 +295661,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294327,7 +295681,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294348,7 +295701,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294369,7 +295721,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294390,7 +295741,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294411,7 +295761,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294432,7 +295781,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294453,7 +295801,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294474,7 +295821,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294495,7 +295841,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294516,7 +295861,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294537,7 +295881,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294558,7 +295901,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294579,7 +295921,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294600,7 +295941,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294621,7 +295961,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294642,7 +295981,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294663,7 +296001,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294684,7 +296021,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294705,7 +296041,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294726,7 +296061,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294747,7 +296081,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294768,7 +296101,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294789,7 +296121,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294810,7 +296141,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294831,7 +296161,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294852,7 +296181,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294873,7 +296201,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294894,7 +296221,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294915,7 +296241,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294936,7 +296261,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294957,7 +296281,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294978,7 +296301,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -294999,7 +296321,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295020,7 +296341,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295041,7 +296361,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295062,7 +296381,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295083,7 +296401,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295104,7 +296421,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295125,7 +296441,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295146,7 +296461,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295167,7 +296481,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295188,7 +296501,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295209,7 +296521,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295230,7 +296541,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295251,7 +296561,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295272,7 +296581,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295293,7 +296601,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295314,7 +296621,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295335,7 +296641,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295356,7 +296661,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295377,7 +296681,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295398,7 +296701,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295419,7 +296721,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295440,7 +296741,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295461,7 +296761,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295482,7 +296781,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295503,7 +296801,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295524,7 +296821,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295545,7 +296841,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295566,7 +296861,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295587,7 +296881,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295608,7 +296901,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295629,7 +296921,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295650,7 +296941,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295671,7 +296961,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295692,7 +296981,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295713,7 +297001,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295734,7 +297021,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295755,7 +297041,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295776,7 +297061,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295797,7 +297081,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295818,7 +297101,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295839,7 +297121,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295860,7 +297141,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295881,7 +297161,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295902,7 +297181,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295923,7 +297201,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295944,7 +297221,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295965,7 +297241,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -295986,7 +297261,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296007,7 +297281,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296028,7 +297301,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296049,7 +297321,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296070,7 +297341,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296091,7 +297361,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296112,7 +297381,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296133,7 +297401,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296154,7 +297421,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296175,7 +297441,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296196,7 +297461,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296217,7 +297481,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296238,7 +297501,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296259,7 +297521,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296280,7 +297541,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296301,7 +297561,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296322,7 +297581,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296343,7 +297601,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296364,7 +297621,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296385,7 +297641,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296406,7 +297661,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296427,7 +297681,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296448,7 +297701,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296469,7 +297721,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -296490,7 +297741,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -308492,6 +309742,13 @@
         ],
         "displayName": "Wingra Direct"
     },
+    "wingstop.co.uk": {
+        "entityName": "Wingstop Restaurants, Inc.",
+        "aliases": [
+            "Wingstop Restaurants, Inc."
+        ],
+        "displayName": "Wingstop Restaurants"
+    },
     "wingstop.com": {
         "entityName": "Wingstop Restaurants, Inc.",
         "aliases": [
@@ -308500,6 +309757,22 @@
         "displayName": "Wingstop Restaurants"
     },
     "omi.sg": {
+        "entityName": "Wink Tech",
+        "aliases": [
+            "MatchUp UK Limited",
+            "Wink Tech"
+        ],
+        "displayName": "Wink Tech"
+    },
+    "omiapp.me": {
+        "entityName": "Wink Tech",
+        "aliases": [
+            "MatchUp UK Limited",
+            "Wink Tech"
+        ],
+        "displayName": "Wink Tech"
+    },
+    "omicdn.com": {
         "entityName": "Wink Tech",
         "aliases": [
             "MatchUp UK Limited",
@@ -311426,6 +312699,13 @@
         ],
         "displayName": "YOUSURE Tarifvergleich"
     },
+    "yoyi.com.cn": {
+        "entityName": "YOYI TECH",
+        "aliases": [
+            "YOYI TECH"
+        ],
+        "displayName": "YOYI TECH"
+    },
     "pressfire.net": {
         "entityName": "YUM GmbH",
         "aliases": [
@@ -314083,6 +315363,19 @@
         ],
         "displayName": "Yum Brands"
     },
+    "tacobell.co.uk": {
+        "entityName": "Yum Brands, Inc.",
+        "aliases": [
+            "Huansheng E-commerce (Shanghai) Co., Ltd",
+            "Taco Bell",
+            "Yum Brands, Inc.",
+            "Yum Consulting (Shanghai) Co., Ltd.",
+            "Yum! III (UK) Ltd.",
+            "环胜电子商务(上海)有限公司",
+            "百胜咨询（上海）有限公司"
+        ],
+        "displayName": "Yum Brands"
+    },
     "tacobell.com": {
         "entityName": "Yum Brands, Inc.",
         "aliases": [
@@ -316580,9 +317873,28 @@
         ],
         "displayName": "Zhejiang Hexin Flush Network Services"
     },
+    "ge.cn": {
+        "entityName": "Zhejiang Merit Interactive Network Technology Co., Ltd.",
+        "aliases": [
+            "Daily Interactive Co., Ltd.",
+            "Zhejiang Merit Interactive Network Technology Co., Ltd.",
+            "浙江每日互动网络科技股份有限公司"
+        ],
+        "displayName": "Zhejiang Merit Interactive Network Technology"
+    },
     "getui.com": {
         "entityName": "Zhejiang Merit Interactive Network Technology Co., Ltd.",
         "aliases": [
+            "Daily Interactive Co., Ltd.",
+            "Zhejiang Merit Interactive Network Technology Co., Ltd.",
+            "浙江每日互动网络科技股份有限公司"
+        ],
+        "displayName": "Zhejiang Merit Interactive Network Technology"
+    },
+    "getui.net": {
+        "entityName": "Zhejiang Merit Interactive Network Technology Co., Ltd.",
+        "aliases": [
+            "Daily Interactive Co., Ltd.",
             "Zhejiang Merit Interactive Network Technology Co., Ltd.",
             "浙江每日互动网络科技股份有限公司"
         ],
@@ -322088,20 +323400,6 @@
         ],
         "displayName": "hive01"
     },
-    "home.pl": {
-        "entityName": "home.pl S.A.",
-        "aliases": [
-            "home.pl S.A."
-        ],
-        "displayName": "home.pl"
-    },
-    "hub.com.pl": {
-        "entityName": "home.pl S.A.",
-        "aliases": [
-            "home.pl S.A."
-        ],
-        "displayName": "home.pl"
-    },
     "home24.de": {
         "entityName": "home24 SE",
         "aliases": [
@@ -325248,13 +326546,6 @@
         ],
         "displayName": "rasmus bern"
     },
-    "contentstack.io": {
-        "entityName": "raw engineering inc",
-        "aliases": [
-            "raw engineering inc"
-        ],
-        "displayName": "raw engineering"
-    },
     "real.de": {
         "entityName": "real GmbH",
         "aliases": [
@@ -326409,13 +327700,6 @@
             "united vertical media GmbH"
         ],
         "displayName": "united vertical media"
-    },
-    "united-domains.de": {
-        "entityName": "united-domains AG",
-        "aliases": [
-            "united-domains AG"
-        ],
-        "displayName": "united-domains"
     },
     "npmcdn.com": {
         "entityName": "unpkg",

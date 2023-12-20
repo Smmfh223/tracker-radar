@@ -16617,6 +16617,7 @@
         ],
         "properties": [
             "bnpparibas.fr",
+            "bnpparibas.net",
             "bnpparibasfortis.be",
             "consorsbank.de",
             "group.bnpparibas",
@@ -17691,7 +17692,8 @@
             "株式会社バンダイナムコホールディングス"
         ],
         "properties": [
-            "bandainamco.co.jp"
+            "bandainamco.co.jp",
+            "channel.or.jp"
         ],
         "displayName": "Bandai Namco Holdings Inc."
     },
@@ -19441,6 +19443,7 @@
             "jd.hk",
             "jd.id",
             "jd.ru",
+            "jddebug.com",
             "jddj.com",
             "jdpay.com",
             "jdpaydns.com",
@@ -19487,12 +19490,14 @@
             "kspkg.com",
             "kuai-fei.com",
             "kuaijinniu.com",
+            "kuaishou.cn",
             "kuaishou.com",
             "kuaishoupay.com",
             "kuaishouzt.com",
             "kwai.net",
             "kwaixiaodian.com",
             "kwaizt.com",
+            "kwimgs.com",
             "starci.cn",
             "theareo.com",
             "viviv.com",
@@ -21076,6 +21081,17 @@
             "bio-rad.com"
         ],
         "displayName": "Bio-Rad Laboratories"
+    },
+    "BioCatch": {
+        "aliases": [
+            "BioCatch"
+        ],
+        "properties": [
+            "analyst-station.com",
+            "biocatch.com",
+            "we-stats.com"
+        ],
+        "displayName": "BioCatch"
     },
     "BioWink GmbH": {
         "aliases": [
@@ -25537,6 +25553,7 @@
             "pangle.io",
             "pangleglobal.com",
             "pangolin-sdk-toutiao.com",
+            "pangolin-sdk-toutiao1.com",
             "pglstatp-toutiao.com",
             "pingpong.ly",
             "pomelo.im",
@@ -31519,7 +31536,8 @@
             "Chime Financial, Inc."
         ],
         "properties": [
-            "chime.com"
+            "chime.com",
+            "chimebank.com"
         ],
         "displayName": "Chime Financial"
     },
@@ -35543,9 +35561,11 @@
             "Comuto SA"
         ],
         "properties": [
+            "blablacar.co.uk",
             "blablacar.com",
             "blablacar.fr",
-            "blablacar.ru"
+            "blablacar.ru",
+            "klaxit.com"
         ],
         "displayName": "Comuto"
     },
@@ -39045,6 +39065,7 @@
             "caprofitx.jp",
             "cvb.io",
             "cyberagent.co.jp",
+            "cycomi.com",
             "growthbeat.com",
             "growthpush.com",
             "hayabusa.io",
@@ -39642,8 +39663,10 @@
         ],
         "properties": [
             "dazn.com",
+            "dazndn.com",
             "daznfeeds.com",
-            "daznservices.com"
+            "daznservices.com",
+            "indazn.com"
         ],
         "displayName": "DAZN"
     },
@@ -42464,6 +42487,7 @@
             "DeepL GmbH"
         ],
         "properties": [
+            "deepl.com",
             "linguee.com.br",
             "linguee.fr",
             "linguee.it"
@@ -43840,8 +43864,10 @@
             "consentric.de",
             "deutschepost.de",
             "dhl.co.uk",
+            "dhl.com",
             "dhl.de",
             "dhlglobalmail.com",
+            "dpdhl.com",
             "logistics.dhl",
             "portokalkulator.de"
         ],
@@ -45232,7 +45258,8 @@
         ],
         "properties": [
             "rossmann-fotowelt.de",
-            "rossmann.de"
+            "rossmann.de",
+            "rossmann.net"
         ],
         "displayName": "Dirk Rossmann"
     },
@@ -46100,6 +46127,7 @@
             "DoorDash, Inc."
         ],
         "properties": [
+            "cdn4dd.com",
             "doordash.com",
             "doordash.engineering",
             "trycaviar.com"
@@ -64566,6 +64594,7 @@
             "wallet.com",
             "waymo.com",
             "waze.com",
+            "web.app",
             "web.dev",
             "webappfieldguide.com",
             "weltweitwachsen.de",
@@ -66771,6 +66800,7 @@
         "properties": [
             "bcloud365.net",
             "jftech.com",
+            "jftechws.com",
             "xm030.cn",
             "xmcsrv.net"
         ],
@@ -68301,20 +68331,6 @@
             "drgourmet.com"
         ],
         "displayName": "Harlan Brothers Productions"
-    },
-    "Harman International Industries, Inc.": {
-        "aliases": [
-            "Harman International Industries, Inc."
-        ],
-        "properties": [
-            "akg.com",
-            "harmankardon.com",
-            "harmanpro.com",
-            "jbl.com",
-            "jblpro.com",
-            "soundcraft.com"
-        ],
-        "displayName": "Harman International Industries"
     },
     "Harmonica.com LLC": {
         "aliases": [
@@ -75265,15 +75281,6 @@
             "ushistory.org"
         ],
         "displayName": "Independence Hall Association"
-    },
-    "Independent Digital News & Media Ltd": {
-        "aliases": [
-            "Independent Digital News & Media Ltd"
-        ],
-        "properties": [
-            "indy100.com"
-        ],
-        "displayName": "Independent Digital News & Media"
     },
     "Independent Insurance Agents & Brokers of America, Inc.": {
         "aliases": [
@@ -85187,8 +85194,10 @@
             "giantfood.com",
             "hannaford.com",
             "hotspotsvankpn.com",
+            "kpnmail.nl",
             "s-bol.com",
-            "stopandshop.com"
+            "stopandshop.com",
+            "telfort.nl"
         ],
         "displayName": "Ahold Delhaize"
     },
@@ -85200,16 +85209,6 @@
             "dbnl.org"
         ],
         "displayName": "Koninklijke Bibliotheek"
-    },
-    "Koninklijke KPN N.V.": {
-        "aliases": [
-            "Koninklijke KPN N.V."
-        ],
-        "properties": [
-            "kpnmail.nl",
-            "telfort.nl"
-        ],
-        "displayName": "Koninklijke KPN"
     },
     "Koninklijke Nederlandse Akademie van Wetenschappen": {
         "aliases": [
@@ -86338,6 +86337,7 @@
         ],
         "properties": [
             "bathandbodyworks.com",
+            "victoriassecret.co.uk",
             "victoriassecret.com"
         ],
         "displayName": "L Brands"
@@ -91916,6 +91916,7 @@
     },
     "LiveScore Limited": {
         "aliases": [
+            "Anzo Group",
             "Hanist Limited",
             "LiveScore Limited",
             "LiveScore Ltd."
@@ -91925,6 +91926,17 @@
             "livescore.us",
             "livescorebet.com",
             "livescoregroup.com",
+            "ls-g.net",
+            "lsmedia1.com",
+            "lsmedia10.com",
+            "lsmedia2.com",
+            "lsmedia3.com",
+            "lsmedia4.com",
+            "lsmedia5.com",
+            "lsmedia6.com",
+            "lsmedia7.com",
+            "lsmedia8.com",
+            "lsmedia9.com",
             "virginbet.com"
         ],
         "displayName": "LiveScore"
@@ -93637,10 +93649,11 @@
     },
     "M&M Media, Inc.": {
         "aliases": [
-            "M&M Media, Inc.",
-            "MMM"
+            "C Squared Networks Ltd",
+            "M&M Media, Inc."
         ],
         "properties": [
+            "mandmglobal.com",
             "projectcarmen.com",
             "trebel.io",
             "trebelmusic.com"
@@ -97692,6 +97705,7 @@
             "azarlive.com",
             "gotinder.com",
             "hinge.co",
+            "hpcnt.com",
             "hyperconnect.com",
             "match.com",
             "mtch.com",
@@ -100901,6 +100915,7 @@
             "msdn.com",
             "msecnd.net",
             "msedge.net",
+            "msftauth.net",
             "msftconnecttest.com",
             "msn.ae",
             "msn.at",
@@ -101544,6 +101559,8 @@
             "MindBody Inc"
         ],
         "properties": [
+            "mindbody.io",
+            "mindbodyapis.com",
             "mindbodyonline.com"
         ],
         "displayName": "MindBody"
@@ -102648,6 +102665,7 @@
             "mindworks-creative.cn",
             "mindworks-creative.com",
             "mintegral.com",
+            "mintegral.net",
             "mobvista.com",
             "nativex.com",
             "rayjump.com",
@@ -105057,6 +105075,7 @@
         ],
         "properties": [
             "myunidays.com",
+            "unidays.io",
             "unidays.world"
         ],
         "displayName": "Myunidays"
@@ -110405,10 +110424,15 @@
     },
     "Nordot Inc.": {
         "aliases": [
-            "Nordot Inc."
+            "Nordot Co., Ltd.",
+            "Nordot Inc.",
+            "Nordot USA Inc"
         ],
         "properties": [
-            "kiji.is"
+            "kiji.is",
+            "nordot.app",
+            "nordot.io",
+            "nordot.jp"
         ],
         "displayName": "Nordot"
     },
@@ -117264,7 +117288,8 @@
         "properties": [
             "gojek.com",
             "gotocompany.com",
-            "tokopedia.com"
+            "tokopedia.com",
+            "tokopedia.net"
         ],
         "displayName": "GoTo"
     },
@@ -128070,6 +128095,19 @@
         ],
         "displayName": "Ravi Trivedi"
     },
+    "Raw Engineering LLC": {
+        "aliases": [
+            "Contentstack Inc.",
+            "Raw Engineering LLC",
+            "raw engineering inc"
+        ],
+        "properties": [
+            "contentstack.com",
+            "contentstack.io",
+            "raweng.com"
+        ],
+        "displayName": "Contentstack"
+    },
     "RawGit": {
         "aliases": [
             "RawGit"
@@ -132708,22 +132746,31 @@
     },
     "SAP SE": {
         "aliases": [
+            "AppGyver Oy",
             "Emarsys eMarketing Systems AG",
             "Emarsys eMarketing Systems GmbH",
+            "LeanIX GmbH",
             "Qualtrics, LLC",
             "SAP",
             "SAP America Inc.",
-            "SAP SE"
+            "SAP SE",
+            "Signavio GmbH",
+            "Taulia"
         ],
         "properties": [
+            "appgyver.com",
             "emarsys.com",
+            "emarsys.net",
+            "leanix.net",
             "ondemand.com",
             "qualtrics.com",
             "sap.com",
             "scarabresearch.com",
             "seewhy.com",
             "services.sap",
-            "sybase.com"
+            "signavio.com",
+            "sybase.com",
+            "taulia.com"
         ],
         "displayName": "SAP"
     },
@@ -134072,9 +134119,10 @@
         ],
         "properties": [
             "dimsum.my",
-            "thestar.com.my"
+            "thestar.com.my",
+            "thestartv.com"
         ],
-        "displayName": "SMG Entertainment Sdn"
+        "displayName": "SMG Entertainment"
     },
     "SMYTHS TOYS HQ UNLIMITED COMPANY": {
         "aliases": [
@@ -135961,12 +136009,21 @@
     },
     "Samsung Electronics Co. Ltd": {
         "aliases": [
+            "Harman International Industries, Inc.",
             "SAMSUNG ELECTRONICS CO. LTD",
+            "Samsung (China) Investment Co., Ltd.",
             "Samsung Electronics Co. Ltd"
         ],
         "properties": [
+            "akg.com",
+            "harmankardon.com",
+            "harmanpro.com",
+            "jbl.com",
+            "jblpro.com",
             "samsung.com",
-            "samsungapps.com"
+            "samsung.com.cn",
+            "samsungapps.com",
+            "soundcraft.com"
         ],
         "displayName": "Samsung"
     },
@@ -139839,6 +139896,15 @@
         ],
         "displayName": "Shoppy Ecommerce"
     },
+    "Shopreme": {
+        "aliases": [
+            "Shopreme"
+        ],
+        "properties": [
+            "shopre.me"
+        ],
+        "displayName": "Shopreme"
+    },
     "Shoprex": {
         "aliases": [
             "Shoprex"
@@ -142779,6 +142845,15 @@
         ],
         "displayName": "Software & Support Media"
     },
+    "Software AG": {
+        "aliases": [
+            "Veeam Software AG"
+        ],
+        "properties": [
+            "softwareag.com"
+        ],
+        "displayName": "Software AG"
+    },
     "Software Asset Management Ireland Limited": {
         "aliases": [
             "Software Asset Management Ireland Limited"
@@ -143176,6 +143251,7 @@
             "Ellation",
             "Funimation Global Group, LLC",
             "Funimation Productions LLC",
+            "Pulse Innovations Ltd.",
             "SONY PICTURES NETWORKS INDIA PRIVATE LIMITED",
             "Sony Corporation",
             "Sony DADC US Inc.",
@@ -143198,12 +143274,14 @@
             "Visionarts, Inc."
         ],
         "properties": [
+            "beyondsports.nl",
             "buzzquizworld.com",
             "crunchyroll.com",
             "dadcdigital.com",
             "deadmundsquest.com",
             "funimation.com",
             "ghostoftsushima.com",
+            "hawkeyeinnovations.com",
             "imageworks.com",
             "jeopardy.com",
             "kenkoatspe.com",
@@ -143216,6 +143294,7 @@
             "playstation.net",
             "playstationvue.com",
             "psvue.com",
+            "pulselive.com",
             "scea.com",
             "scei.co.jp",
             "se-mc.com",
@@ -146501,7 +146580,8 @@
         "properties": [
             "chartable.com",
             "scdn.co",
-            "spotify.com"
+            "spotify.com",
+            "spotifycdn.com"
         ],
         "displayName": "Spotify"
     },
@@ -147798,15 +147878,6 @@
             "starlocalmedia.com"
         ],
         "displayName": "Star Local Media"
-    },
-    "Star Media Group Berhad": {
-        "aliases": [
-            "Star Media Group Berhad"
-        ],
-        "properties": [
-            "thestartv.com"
-        ],
-        "displayName": "Star Media Group Berhad"
     },
     "Star Stable Entertainment AB": {
         "aliases": [
@@ -151291,6 +151362,18 @@
         ],
         "displayName": "Syncronex"
     },
+    "Syndigo LLC": {
+        "aliases": [
+            "Riversand",
+            "Syndigo LLC"
+        ],
+        "properties": [
+            "riversand.com",
+            "syndigo.cloud",
+            "syndigo.com"
+        ],
+        "displayName": "Syndigo"
+    },
     "Synerise SA": {
         "aliases": [
             "Synerise SA"
@@ -153770,6 +153853,15 @@
         ],
         "displayName": "Taima Enterprises"
     },
+    "Taiwan Network Certification Co., Ltd.": {
+        "aliases": [
+            "Taiwan Network Certification Co., Ltd."
+        ],
+        "properties": [
+            "twca.com.tw"
+        ],
+        "displayName": "Taiwan Network Certification"
+    },
     "Taiwan hsinchu science park": {
         "aliases": [
             "Taiwan hsinchu science park"
@@ -155517,6 +155609,7 @@
     },
     "Tencent Holdings Ltd.": {
         "aliases": [
+            "Beijing Dajia Internet Information Technology Co., Ltd.",
             "Guangzhou KuGou Technology CO. , LTD",
             "KuGou Technology CO. , LTD",
             "Kuwo Tianjin Co., Ltd.",
@@ -155537,7 +155630,8 @@
             "Tencent Technology (Shanghai) Co., Ltd",
             "Tencent Technology (Shenzhen) Company Limited",
             "WeChat International (Canada) Limited",
-            "WeChat International Pte Ltd"
+            "WeChat International Pte Ltd",
+            "北京达佳互联信息技术有限公司"
         ],
         "properties": [
             "acimg.cn",
@@ -155565,6 +155659,7 @@
             "qqmail.com",
             "qzone.com",
             "servicewechat.com",
+            "ssrcdn.com",
             "sumogroupltd.com",
             "tencent.com",
             "tencentmusic.com",
@@ -156781,6 +156876,7 @@
             "coca-colacompany.com",
             "coke.com",
             "costa-platform.co.uk",
+            "costa-platform.com",
             "costa.co.uk"
         ],
         "displayName": "The Coca-Cola Company"
@@ -157832,6 +157928,25 @@
             "thehut.net"
         ],
         "displayName": "The Hut.com"
+    },
+    "The Independent": {
+        "aliases": [
+            "Independent Digital News & Media Ltd",
+            "The Independent"
+        ],
+        "properties": [
+            "independent.co.uk",
+            "independentadvertising.com",
+            "independentarabia.com",
+            "independentespanol.com",
+            "independentpersian.com",
+            "independenturdu.com",
+            "indy100.com",
+            "indyturk.com",
+            "standard.co.uk",
+            "the-independent.com"
+        ],
+        "displayName": "The Independent"
     },
     "The Infatuation Inc.": {
         "aliases": [
@@ -160321,6 +160436,15 @@
             "audtd.com"
         ],
         "displayName": "The big history"
+    },
+    "The72 Publishing Ltd": {
+        "aliases": [
+            "The72 Publishing Ltd"
+        ],
+        "properties": [
+            "the72.co.uk"
+        ],
+        "displayName": "The72 Publishing"
     },
     "TheAdultToyShop": {
         "aliases": [
@@ -165153,6 +165277,7 @@
         ],
         "properties": [
             "authy.com",
+            "twil.io",
             "twilio.com"
         ],
         "displayName": "Twilio"
@@ -167046,7 +167171,17 @@
             "Uniqodo Limited"
         ],
         "properties": [
-            "uniqodo.com"
+            "7atghwvo.uk",
+            "a8ieo.com",
+            "dg287.net",
+            "fg6c33cp.com",
+            "g0khp2likq.com",
+            "ln7c.net",
+            "r1fdwmi0.com",
+            "rwbz.net",
+            "uniqodo.com",
+            "uqd.io",
+            "xcj85hmf.net"
         ],
         "displayName": "Uniqodo"
     },
@@ -167237,6 +167372,8 @@
             "gmx.com",
             "gmx.fr",
             "gmx.net",
+            "home.pl",
+            "hub.com.pl",
             "internetx.com",
             "ionos.com",
             "log-in-web.de",
@@ -167250,6 +167387,7 @@
             "uicdn.com",
             "uicdn.net",
             "uimserv.net",
+            "united-domains.de",
             "web.de"
         ],
         "displayName": "United Internet"
@@ -167630,6 +167768,7 @@
             "unity3d.com",
             "unity3dusercontent.com",
             "vidiom.net",
+            "vivox.com",
             "yellowblue.io"
         ],
         "displayName": "Unity (ironSource)"
@@ -170702,11 +170841,14 @@
     "VNG Corporation": {
         "aliases": [
             "VNG CORPORATION",
-            "VNG Corporation"
+            "VNG Corporation",
+            "VNG JOINT STOCK COMPANY",
+            "Vinagame"
         ],
         "properties": [
             "123c.vn",
             "adtimaserver.vn",
+            "vcdn.cloud",
             "vng.com.vn",
             "zadn.vn",
             "zalo-shop.vn",
@@ -170721,10 +170863,23 @@
     },
     "VNPAY JSC": {
         "aliases": [
+            "VNLIFE Corporation Joint Stock Company",
             "VNPAY JSC"
         ],
         "properties": [
-            "vnpay.vn"
+            "vivnpay.vn",
+            "vninvoice.vn",
+            "vnlife-sg.com",
+            "vnlife-sg.com.vn",
+            "vnlife-sg.net",
+            "vnlife-sg.vn",
+            "vnlife.com.vn",
+            "vnlife.net",
+            "vnlife.vn",
+            "vnpay.vn",
+            "vnpaypos.vn",
+            "vnpayqr.vn",
+            "vnpaytest.vn"
         ],
         "displayName": "VNPAY"
     },
@@ -171979,7 +172134,6 @@
             "Oath Inc.",
             "Oath inc",
             "TechCrunch, Inc.",
-            "TheHuffingtonPost.com, Inc.",
             "Verizon Media",
             "Yahoo",
             "Yahoo Holdings, Inc.",
@@ -178808,6 +178962,7 @@
             "Wingstop Restaurants, Inc."
         ],
         "properties": [
+            "wingstop.co.uk",
             "wingstop.com"
         ],
         "displayName": "Wingstop Restaurants"
@@ -178818,7 +178973,9 @@
             "Wink Tech"
         ],
         "properties": [
-            "omi.sg"
+            "omi.sg",
+            "omiapp.me",
+            "omicdn.com"
         ],
         "displayName": "Wink Tech"
     },
@@ -180926,6 +181083,15 @@
         ],
         "displayName": "YOUSURE Tarifvergleich"
     },
+    "YOYI TECH": {
+        "aliases": [
+            "YOYI TECH"
+        ],
+        "properties": [
+            "yoyi.com.cn"
+        ],
+        "displayName": "YOYI TECH"
+    },
     "YUM GmbH": {
         "aliases": [
             "YUM GmbH"
@@ -182041,6 +182207,7 @@
             "kfc.com.cn",
             "pizzahut.com",
             "pizzahut.io",
+            "tacobell.co.uk",
             "tacobell.com"
         ],
         "displayName": "Yum Brands"
@@ -182851,11 +183018,14 @@
     },
     "Zhejiang Merit Interactive Network Technology Co., Ltd.": {
         "aliases": [
+            "Daily Interactive Co., Ltd.",
             "Zhejiang Merit Interactive Network Technology Co., Ltd.",
             "浙江每日互动网络科技股份有限公司"
         ],
         "properties": [
-            "getui.com"
+            "ge.cn",
+            "getui.com",
+            "getui.net"
         ],
         "displayName": "Zhejiang Merit Interactive Network Technology"
     },
@@ -186791,16 +186961,6 @@
         ],
         "displayName": "hive01"
     },
-    "home.pl S.A.": {
-        "aliases": [
-            "home.pl S.A."
-        ],
-        "properties": [
-            "home.pl",
-            "hub.com.pl"
-        ],
-        "displayName": "home.pl"
-    },
     "home24 SE": {
         "aliases": [
             "home24 SE"
@@ -189678,15 +189838,6 @@
         ],
         "displayName": "rasmus bern"
     },
-    "raw engineering inc": {
-        "aliases": [
-            "raw engineering inc"
-        ],
-        "properties": [
-            "contentstack.io"
-        ],
-        "displayName": "raw engineering"
-    },
     "real GmbH": {
         "aliases": [
             "REal",
@@ -190880,15 +191031,6 @@
             "speisekarte.de"
         ],
         "displayName": "united vertical media"
-    },
-    "united-domains AG": {
-        "aliases": [
-            "united-domains AG"
-        ],
-        "properties": [
-            "united-domains.de"
-        ],
-        "displayName": "united-domains"
     },
     "unpkg": {
         "aliases": [
